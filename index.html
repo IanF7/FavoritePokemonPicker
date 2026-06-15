@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Favorite Pokémon Picker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Favorite Pokémon Picker</h1>
+      <p id="stageText">Loading Pokémon...</p>
+    </div>
+
+    <div class="controls">
+      <input id="searchInput" type="search" placeholder="Search Pokémon" />
+
+      <label class="toggle">
+        <input id="shinyToggle" type="checkbox" />
+        Shiny
+      </label>
+
+      <label class="toggle">
+        <input id="selectedOnlyToggle" type="checkbox" />
+        Selected only
+      </label>
+
+      <button id="resetButton" type="button">Reset</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="finalResult" class="final hidden"></div>
+
+    <div class="progress">
+      <span id="selectionCount">0 selected</span>
+      <button id="nextButton" type="button" disabled>Continue</button>
+    </div>
+
+    <section id="pokemonGrid" class="grid"></section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

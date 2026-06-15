@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build:data": "node tools/build-pokemon-manifest.js"
+  }
+}
