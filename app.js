@@ -1,5 +1,4 @@
-const STAGES = [100, 50, 25, 10, 5, 1];
-const STORAGE_KEY = "favorite-pokemon-picker-state";
+const STORAGE_KEY = "favorite-pokemon-picker-state-v2";
 
 const grid = document.getElementById("pokemonGrid");
 const stageText = document.getElementById("stageText");
@@ -17,8 +16,10 @@ let selectedIds = new Set();
 let stageIndex = 0;
 let showShiny = false;
 let showSelectedOnly = false;
-let completedRounds = {};
+let shortlistIds = [];
+let completedRounds = [];
 let finalGroupOrders = {};
+let isComplete = false;
 
 init();
 
@@ -33,8 +34,10 @@ async function init() {
     selectedIds = new Set(saved.selectedIds ?? []);
     showShiny = saved.showShiny ?? false;
     showSelectedOnly = saved.showSelectedOnly ?? false;
-    completedRounds = saved.completedRounds ?? {};
+    shortlistIds = saved.shortlistIds ?? [];
+    completedRounds = saved.completedRounds ?? [];
     finalGroupOrders = saved.finalGroupOrders ?? {};
+    isComplete = saved.isComplete ?? false;
 
     shinyToggle.checked = showShiny;
     selectedOnlyToggle.checked = showSelectedOnly;
@@ -51,7 +54,7 @@ async function init() {
 
   bindEvents();
 
-  if (stageIndex >= STAGES.length) {
+  if (isComplete) {
     renderFinal();
   } else {
     render();
@@ -59,13 +62,15 @@ async function init() {
 }
 
 function bindEvents() {
-  searchInput.addEventListener("input", render);
+  searchInput.addEventListener("input", () => {
+    if (!isComplete) render();
+  });
 
   shinyToggle.addEventListener("change", () => {
     showShiny = shinyToggle.checked;
     saveState();
 
-    if (stageIndex >= STAGES.length) {
+    if (isComplete) {
       renderFinal();
     } else {
       render();
@@ -88,26 +93,64 @@ function bindEvents() {
     stageIndex = 0;
     showShiny = false;
     showSelectedOnly = false;
-    completedRounds = {};
+    shortlistIds = [];
+    completedRounds = [];
     finalGroupOrders = {};
+    isComplete = false;
 
     shinyToggle.checked = false;
     selectedOnlyToggle.checked = false;
+    selectedOnlyToggle.disabled = false;
     searchInput.value = "";
 
     finalResult.classList.add("hidden");
+    grid.classList.remove("hidden");
 
     render();
   });
 }
 
+function isShortlistStage() {
+  return stageIndex === 0;
+}
+
+function getCurrentTarget() {
+  if (isShortlistStage()) return null;
+  return Math.ceil(pool.length / 2);
+}
+
 function continueToNextStage() {
-  const target = STAGES[stageIndex];
+  if (isShortlistStage()) {
+    if (selectedIds.size < 2) return;
+
+    const selectedPokemon = pool.filter(pokemon => selectedIds.has(pokemon.id));
+
+    shortlistIds = selectedPokemon.map(pokemon => pokemon.id);
+    pool = selectedPokemon;
+    selectedIds = new Set();
+    stageIndex = 1;
+    searchInput.value = "";
+    showSelectedOnly = false;
+    selectedOnlyToggle.checked = false;
+
+    saveState();
+    render();
+    return;
+  }
+
+  const target = getCurrentTarget();
 
   if (selectedIds.size !== target) return;
 
   const selectedPokemon = pool.filter(pokemon => selectedIds.has(pokemon.id));
-  completedRounds[`top${target}`] = selectedPokemon.map(pokemon => pokemon.id);
+  const eliminatedPokemon = pool.filter(pokemon => !selectedIds.has(pokemon.id));
+
+  completedRounds.push({
+    fromCount: pool.length,
+    toCount: selectedPokemon.length,
+    survivorIds: selectedPokemon.map(pokemon => pokemon.id),
+    eliminatedIds: eliminatedPokemon.map(pokemon => pokemon.id)
+  });
 
   pool = selectedPokemon;
   selectedIds = new Set();
@@ -116,7 +159,8 @@ function continueToNextStage() {
   showSelectedOnly = false;
   selectedOnlyToggle.checked = false;
 
-  if (stageIndex >= STAGES.length) {
+  if (pool.length === 1) {
+    isComplete = true;
     saveState();
     renderFinal();
   } else {
@@ -126,7 +170,19 @@ function continueToNextStage() {
 }
 
 function toggleSelection(id) {
-  const target = STAGES[stageIndex];
+  if (isShortlistStage()) {
+    if (selectedIds.has(id)) {
+      selectedIds.delete(id);
+    } else {
+      selectedIds.add(id);
+    }
+
+    saveState();
+    render();
+    return;
+  }
+
+  const target = getCurrentTarget();
 
   if (selectedIds.has(id)) {
     selectedIds.delete(id);
@@ -143,21 +199,32 @@ function render() {
   grid.classList.remove("hidden");
   selectedOnlyToggle.disabled = false;
 
-  const target = STAGES[stageIndex];
-  const remaining = target - selectedIds.size;
+  if (isShortlistStage()) {
+    stageText.textContent = "Select every Pokémon you like.";
+    selectionCount.textContent =
+      selectedIds.size === 1
+        ? "1 Pokémon selected. Select at least 2 to continue."
+        : `${selectedIds.size} Pokémon selected.`;
 
-  stageText.textContent =
-    target === 1
-      ? "Choose your single favorite Pokémon."
-      : `Choose ${target} Pokémon from this round.`;
+    nextButton.disabled = selectedIds.size < 2;
+    nextButton.textContent = "Start narrowing";
+  } else {
+    const target = getCurrentTarget();
+    const remaining = target - selectedIds.size;
 
-  selectionCount.textContent =
-    remaining === 0
-      ? `${selectedIds.size} selected`
-      : `${selectedIds.size} selected, ${remaining} left`;
+    stageText.textContent =
+      target === 1
+        ? "Choose your favorite from the remaining Pokémon."
+        : `Cut this list in half. Choose ${target} of ${pool.length}.`;
 
-  nextButton.disabled = selectedIds.size !== target;
-  nextButton.textContent = target === 1 ? "Finish" : "Continue";
+    selectionCount.textContent =
+      remaining === 0
+        ? `${selectedIds.size} selected`
+        : `${selectedIds.size} selected, ${remaining} left`;
+
+    nextButton.disabled = selectedIds.size !== target;
+    nextButton.textContent = target === 1 ? "Finish" : "Continue";
+  }
 
   const query = searchInput.value.trim().toLowerCase();
 
@@ -220,9 +287,30 @@ function getPokemonByIds(ids) {
     .filter(Boolean);
 }
 
-function subtractIds(ids, idsToRemove) {
-  const removeSet = new Set(idsToRemove ?? []);
-  return (ids ?? []).filter(id => !removeSet.has(id));
+function getFavoritePokemon() {
+  return pool.length === 1 ? pool[0] : null;
+}
+
+function getRankTitle(start, end) {
+  if (start === end) return `Top ${start}`;
+  return `Top ${start}-${end}`;
+}
+
+function getFinalSections() {
+  return completedRounds
+    .slice()
+    .reverse()
+    .map(round => {
+      const startRank = round.toCount + 1;
+      const endRank = round.fromCount;
+
+      return {
+        key: `top${startRank}to${endRank}`,
+        title: getRankTitle(startRank, endRank),
+        ids: round.eliminatedIds
+      };
+    })
+    .filter(section => section.ids.length > 0);
 }
 
 function reconcileFinalOrder(groupKey, defaultIds) {
@@ -235,45 +323,8 @@ function reconcileFinalOrder(groupKey, defaultIds) {
   return [...savedValidIds, ...missingIds];
 }
 
-function getFinalSections() {
-  const top1 = completedRounds.top1 ?? [];
-  const top5 = completedRounds.top5 ?? [];
-  const top10 = completedRounds.top10 ?? [];
-  const top25 = completedRounds.top25 ?? [];
-  const top50 = completedRounds.top50 ?? [];
-  const top100 = completedRounds.top100 ?? [];
-
-  return [
-    {
-      key: "top2to5",
-      title: "Top 2-5",
-      ids: subtractIds(top5, top1)
-    },
-    {
-      key: "top6to10",
-      title: "Top 6-10",
-      ids: subtractIds(top10, top5)
-    },
-    {
-      key: "top11to25",
-      title: "Top 11-25",
-      ids: subtractIds(top25, top10)
-    },
-    {
-      key: "top26to50",
-      title: "Top 26-50",
-      ids: subtractIds(top50, top25)
-    },
-    {
-      key: "top51to100",
-      title: "Top 51-100",
-      ids: subtractIds(top100, top50)
-    }
-  ];
-}
-
 function renderFinal() {
-  const favorite = getPokemonByIds(completedRounds.top1 ?? [])[0];
+  const favorite = getFavoritePokemon();
 
   grid.replaceChildren();
   grid.classList.add("hidden");
@@ -441,8 +492,10 @@ function saveState() {
     selectedIds: [...selectedIds],
     showShiny,
     showSelectedOnly,
+    shortlistIds,
     completedRounds,
-    finalGroupOrders
+    finalGroupOrders,
+    isComplete
   }));
 }
 
