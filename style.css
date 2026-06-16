@@ -295,6 +295,11 @@ main {
   filter: drop-shadow(0 8px 4px rgba(0, 0, 0, 0.25));
 }
 
+.export-button {
+  display: block;
+  margin: 1rem auto 0;
+}
+
 .final-section {
   margin-top: 1.25rem;
   padding: 1rem;

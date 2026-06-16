@@ -8640,28 +8640,8 @@
     "shinySprite": "images/sprites%20shiny/KYUREM_2.png"
   },
   {
-    "id": "KYUREM_3",
-    "dexId": 865,
-    "speciesId": "KYUREM",
-    "formNumber": "3",
-    "name": "Kyurem Form 3",
-    "sortGroup": "KYUREM",
-    "sprite": "images/sprites/KYUREM_3.png",
-    "shinySprite": "images/sprites%20shiny/KYUREM_3.png"
-  },
-  {
-    "id": "KYUREM_4",
-    "dexId": 866,
-    "speciesId": "KYUREM",
-    "formNumber": "4",
-    "name": "Kyurem Form 4",
-    "sortGroup": "KYUREM",
-    "sprite": "images/sprites/KYUREM_4.png",
-    "shinySprite": "images/sprites%20shiny/KYUREM_4.png"
-  },
-  {
     "id": "KELDEO",
-    "dexId": 867,
+    "dexId": 865,
     "speciesId": "KELDEO",
     "formNumber": null,
     "name": "Keldeo",
@@ -8671,7 +8651,7 @@
   },
   {
     "id": "KELDEO_1",
-    "dexId": 868,
+    "dexId": 866,
     "speciesId": "KELDEO",
     "formNumber": "1",
     "name": "Keldeo Resolute Form",
@@ -8681,7 +8661,7 @@
   },
   {
     "id": "MELOETTA",
-    "dexId": 869,
+    "dexId": 867,
     "speciesId": "MELOETTA",
     "formNumber": null,
     "name": "Meloetta",
@@ -8691,7 +8671,7 @@
   },
   {
     "id": "MELOETTA_1",
-    "dexId": 870,
+    "dexId": 868,
     "speciesId": "MELOETTA",
     "formNumber": "1",
     "name": "Meloetta Pirouette Forme",
@@ -8701,7 +8681,7 @@
   },
   {
     "id": "GENESECT",
-    "dexId": 871,
+    "dexId": 869,
     "speciesId": "GENESECT",
     "formNumber": null,
     "name": "Genesect",
@@ -8711,7 +8691,7 @@
   },
   {
     "id": "GENESECT_1",
-    "dexId": 872,
+    "dexId": 870,
     "speciesId": "GENESECT",
     "formNumber": "1",
     "name": "Genesect Shock Drive",
@@ -8721,7 +8701,7 @@
   },
   {
     "id": "GENESECT_2",
-    "dexId": 873,
+    "dexId": 871,
     "speciesId": "GENESECT",
     "formNumber": "2",
     "name": "Genesect Burn Drive",
@@ -8731,7 +8711,7 @@
   },
   {
     "id": "GENESECT_3",
-    "dexId": 874,
+    "dexId": 872,
     "speciesId": "GENESECT",
     "formNumber": "3",
     "name": "Genesect Chill Drive",
@@ -8741,7 +8721,7 @@
   },
   {
     "id": "GENESECT_4",
-    "dexId": 875,
+    "dexId": 873,
     "speciesId": "GENESECT",
     "formNumber": "4",
     "name": "Genesect Douse Drive",
@@ -8751,7 +8731,7 @@
   },
   {
     "id": "CHESPIN",
-    "dexId": 876,
+    "dexId": 874,
     "speciesId": "CHESPIN",
     "formNumber": null,
     "name": "Chespin",
@@ -8761,7 +8741,7 @@
   },
   {
     "id": "QUILLADIN",
-    "dexId": 877,
+    "dexId": 875,
     "speciesId": "QUILLADIN",
     "formNumber": null,
     "name": "Quilladin",
@@ -8771,7 +8751,7 @@
   },
   {
     "id": "CHESNAUGHT",
-    "dexId": 878,
+    "dexId": 876,
     "speciesId": "CHESNAUGHT",
     "formNumber": null,
     "name": "Chesnaught",
@@ -8781,7 +8761,7 @@
   },
   {
     "id": "CHESNAUGHT_1",
-    "dexId": 879,
+    "dexId": 877,
     "speciesId": "CHESNAUGHT",
     "formNumber": "1",
     "name": "Mega Chesnaught",
@@ -8791,7 +8771,7 @@
   },
   {
     "id": "FENNEKIN",
-    "dexId": 880,
+    "dexId": 878,
     "speciesId": "FENNEKIN",
     "formNumber": null,
     "name": "Fennekin",
@@ -8801,7 +8781,7 @@
   },
   {
     "id": "BRAIXEN",
-    "dexId": 881,
+    "dexId": 879,
     "speciesId": "BRAIXEN",
     "formNumber": null,
     "name": "Braixen",
@@ -8811,7 +8791,7 @@
   },
   {
     "id": "DELPHOX",
-    "dexId": 882,
+    "dexId": 880,
     "speciesId": "DELPHOX",
     "formNumber": null,
     "name": "Delphox",
@@ -8821,7 +8801,7 @@
   },
   {
     "id": "DELPHOX_1",
-    "dexId": 883,
+    "dexId": 881,
     "speciesId": "DELPHOX",
     "formNumber": "1",
     "name": "Mega Delphox",
@@ -8831,7 +8811,7 @@
   },
   {
     "id": "FROAKIE",
-    "dexId": 884,
+    "dexId": 882,
     "speciesId": "FROAKIE",
     "formNumber": null,
     "name": "Froakie",
@@ -8841,7 +8821,7 @@
   },
   {
     "id": "FROGADIER",
-    "dexId": 885,
+    "dexId": 883,
     "speciesId": "FROGADIER",
     "formNumber": null,
     "name": "Frogadier",
@@ -8851,7 +8831,7 @@
   },
   {
     "id": "GRENINJA",
-    "dexId": 886,
+    "dexId": 884,
     "speciesId": "GRENINJA",
     "formNumber": null,
     "name": "Greninja",
@@ -8861,7 +8841,7 @@
   },
   {
     "id": "GRENINJA_2",
-    "dexId": 887,
+    "dexId": 885,
     "speciesId": "GRENINJA",
     "formNumber": "2",
     "name": "Ash-Greninja",
@@ -8871,7 +8851,7 @@
   },
   {
     "id": "GRENINJA_3",
-    "dexId": 888,
+    "dexId": 886,
     "speciesId": "GRENINJA",
     "formNumber": "3",
     "name": "Mega Greninja",
@@ -8881,7 +8861,7 @@
   },
   {
     "id": "BUNNELBY",
-    "dexId": 889,
+    "dexId": 887,
     "speciesId": "BUNNELBY",
     "formNumber": null,
     "name": "Bunnelby",
@@ -8891,7 +8871,7 @@
   },
   {
     "id": "DIGGERSBY",
-    "dexId": 890,
+    "dexId": 888,
     "speciesId": "DIGGERSBY",
     "formNumber": null,
     "name": "Diggersby",
@@ -8901,7 +8881,7 @@
   },
   {
     "id": "FLETCHLING",
-    "dexId": 891,
+    "dexId": 889,
     "speciesId": "FLETCHLING",
     "formNumber": null,
     "name": "Fletchling",
@@ -8911,7 +8891,7 @@
   },
   {
     "id": "FLETCHINDER",
-    "dexId": 892,
+    "dexId": 890,
     "speciesId": "FLETCHINDER",
     "formNumber": null,
     "name": "Fletchinder",
@@ -8921,7 +8901,7 @@
   },
   {
     "id": "TALONFLAME",
-    "dexId": 893,
+    "dexId": 891,
     "speciesId": "TALONFLAME",
     "formNumber": null,
     "name": "Talonflame",
@@ -8931,7 +8911,7 @@
   },
   {
     "id": "SCATTERBUG",
-    "dexId": 894,
+    "dexId": 892,
     "speciesId": "SCATTERBUG",
     "formNumber": null,
     "name": "Scatterbug",
@@ -8941,7 +8921,7 @@
   },
   {
     "id": "SPEWPA",
-    "dexId": 895,
+    "dexId": 893,
     "speciesId": "SPEWPA",
     "formNumber": null,
     "name": "Spewpa",
@@ -8951,7 +8931,7 @@
   },
   {
     "id": "VIVILLON",
-    "dexId": 896,
+    "dexId": 894,
     "speciesId": "VIVILLON",
     "formNumber": null,
     "name": "Vivillon",
@@ -8961,7 +8941,7 @@
   },
   {
     "id": "VIVILLON_1",
-    "dexId": 897,
+    "dexId": 895,
     "speciesId": "VIVILLON",
     "formNumber": "1",
     "name": "Vivillon Continental Pattern",
@@ -8971,7 +8951,7 @@
   },
   {
     "id": "VIVILLON_2",
-    "dexId": 898,
+    "dexId": 896,
     "speciesId": "VIVILLON",
     "formNumber": "2",
     "name": "Vivillon Elegant Pattern",
@@ -8981,7 +8961,7 @@
   },
   {
     "id": "VIVILLON_3",
-    "dexId": 899,
+    "dexId": 897,
     "speciesId": "VIVILLON",
     "formNumber": "3",
     "name": "Vivillon Garden Pattern",
@@ -8991,7 +8971,7 @@
   },
   {
     "id": "VIVILLON_4",
-    "dexId": 900,
+    "dexId": 898,
     "speciesId": "VIVILLON",
     "formNumber": "4",
     "name": "Vivillon High Plains Pattern",
@@ -9001,7 +8981,7 @@
   },
   {
     "id": "VIVILLON_5",
-    "dexId": 901,
+    "dexId": 899,
     "speciesId": "VIVILLON",
     "formNumber": "5",
     "name": "Vivillon Icy Snow Pattern",
@@ -9011,7 +8991,7 @@
   },
   {
     "id": "VIVILLON_6",
-    "dexId": 902,
+    "dexId": 900,
     "speciesId": "VIVILLON",
     "formNumber": "6",
     "name": "Vivillon Jungle Pattern",
@@ -9021,7 +9001,7 @@
   },
   {
     "id": "VIVILLON_7",
-    "dexId": 903,
+    "dexId": 901,
     "speciesId": "VIVILLON",
     "formNumber": "7",
     "name": "Vivillon Marine Pattern",
@@ -9031,7 +9011,7 @@
   },
   {
     "id": "VIVILLON_8",
-    "dexId": 904,
+    "dexId": 902,
     "speciesId": "VIVILLON",
     "formNumber": "8",
     "name": "Vivillon Meadow Pattern",
@@ -9041,7 +9021,7 @@
   },
   {
     "id": "VIVILLON_9",
-    "dexId": 905,
+    "dexId": 903,
     "speciesId": "VIVILLON",
     "formNumber": "9",
     "name": "Vivillon Modern Pattern",
@@ -9051,7 +9031,7 @@
   },
   {
     "id": "VIVILLON_10",
-    "dexId": 906,
+    "dexId": 904,
     "speciesId": "VIVILLON",
     "formNumber": "10",
     "name": "Vivillon Monsoon Pattern",
@@ -9061,7 +9041,7 @@
   },
   {
     "id": "VIVILLON_11",
-    "dexId": 907,
+    "dexId": 905,
     "speciesId": "VIVILLON",
     "formNumber": "11",
     "name": "Vivillon Ocean Pattern",
@@ -9071,7 +9051,7 @@
   },
   {
     "id": "VIVILLON_12",
-    "dexId": 908,
+    "dexId": 906,
     "speciesId": "VIVILLON",
     "formNumber": "12",
     "name": "Vivillon Polar Pattern",
@@ -9081,7 +9061,7 @@
   },
   {
     "id": "VIVILLON_13",
-    "dexId": 909,
+    "dexId": 907,
     "speciesId": "VIVILLON",
     "formNumber": "13",
     "name": "Vivillon River Pattern",
@@ -9091,7 +9071,7 @@
   },
   {
     "id": "VIVILLON_14",
-    "dexId": 910,
+    "dexId": 908,
     "speciesId": "VIVILLON",
     "formNumber": "14",
     "name": "Vivillon Sandstorm Pattern",
@@ -9101,7 +9081,7 @@
   },
   {
     "id": "VIVILLON_15",
-    "dexId": 911,
+    "dexId": 909,
     "speciesId": "VIVILLON",
     "formNumber": "15",
     "name": "Vivillon Savanna Pattern",
@@ -9111,7 +9091,7 @@
   },
   {
     "id": "VIVILLON_16",
-    "dexId": 912,
+    "dexId": 910,
     "speciesId": "VIVILLON",
     "formNumber": "16",
     "name": "Vivillon Sun Pattern",
@@ -9121,7 +9101,7 @@
   },
   {
     "id": "VIVILLON_17",
-    "dexId": 913,
+    "dexId": 911,
     "speciesId": "VIVILLON",
     "formNumber": "17",
     "name": "Vivillon Tundra Pattern",
@@ -9131,7 +9111,7 @@
   },
   {
     "id": "VIVILLON_18",
-    "dexId": 914,
+    "dexId": 912,
     "speciesId": "VIVILLON",
     "formNumber": "18",
     "name": "Vivillon Fancy Pattern",
@@ -9141,7 +9121,7 @@
   },
   {
     "id": "VIVILLON_19",
-    "dexId": 915,
+    "dexId": 913,
     "speciesId": "VIVILLON",
     "formNumber": "19",
     "name": "Vivillon Pok\u00e9 Ball Pattern",
@@ -9151,7 +9131,7 @@
   },
   {
     "id": "LITLEO",
-    "dexId": 916,
+    "dexId": 914,
     "speciesId": "LITLEO",
     "formNumber": null,
     "name": "Litleo",
@@ -9161,7 +9141,7 @@
   },
   {
     "id": "PYROAR",
-    "dexId": 917,
+    "dexId": 915,
     "speciesId": "PYROAR",
     "formNumber": null,
     "name": "Pyroar",
@@ -9171,7 +9151,7 @@
   },
   {
     "id": "PYROAR_1",
-    "dexId": 918,
+    "dexId": 916,
     "speciesId": "PYROAR",
     "formNumber": "1",
     "name": "Mega Pyroar",
@@ -9181,7 +9161,7 @@
   },
   {
     "id": "FLABEBE",
-    "dexId": 919,
+    "dexId": 917,
     "speciesId": "FLABEBE",
     "formNumber": null,
     "name": "Flab\u00e9b\u00e9",
@@ -9191,7 +9171,7 @@
   },
   {
     "id": "FLABEBE_1",
-    "dexId": 920,
+    "dexId": 918,
     "speciesId": "FLABEBE",
     "formNumber": "1",
     "name": "Flab\u00e9b\u00e9 Yellow Flower",
@@ -9201,7 +9181,7 @@
   },
   {
     "id": "FLABEBE_2",
-    "dexId": 921,
+    "dexId": 919,
     "speciesId": "FLABEBE",
     "formNumber": "2",
     "name": "Flab\u00e9b\u00e9 Orange Flower",
@@ -9211,7 +9191,7 @@
   },
   {
     "id": "FLABEBE_3",
-    "dexId": 922,
+    "dexId": 920,
     "speciesId": "FLABEBE",
     "formNumber": "3",
     "name": "Flab\u00e9b\u00e9 Blue Flower",
@@ -9221,7 +9201,7 @@
   },
   {
     "id": "FLABEBE_4",
-    "dexId": 923,
+    "dexId": 921,
     "speciesId": "FLABEBE",
     "formNumber": "4",
     "name": "Flab\u00e9b\u00e9 White Flower",
@@ -9231,7 +9211,7 @@
   },
   {
     "id": "FLOETTE",
-    "dexId": 924,
+    "dexId": 922,
     "speciesId": "FLOETTE",
     "formNumber": null,
     "name": "Floette",
@@ -9241,7 +9221,7 @@
   },
   {
     "id": "FLOETTE_1",
-    "dexId": 925,
+    "dexId": 923,
     "speciesId": "FLOETTE",
     "formNumber": "1",
     "name": "Floette Yellow Flower",
@@ -9251,7 +9231,7 @@
   },
   {
     "id": "FLOETTE_2",
-    "dexId": 926,
+    "dexId": 924,
     "speciesId": "FLOETTE",
     "formNumber": "2",
     "name": "Floette Orange Flower",
@@ -9261,7 +9241,7 @@
   },
   {
     "id": "FLOETTE_3",
-    "dexId": 927,
+    "dexId": 925,
     "speciesId": "FLOETTE",
     "formNumber": "3",
     "name": "Floette Blue Flower",
@@ -9271,7 +9251,7 @@
   },
   {
     "id": "FLOETTE_4",
-    "dexId": 928,
+    "dexId": 926,
     "speciesId": "FLOETTE",
     "formNumber": "4",
     "name": "Floette White Flower",
@@ -9281,7 +9261,7 @@
   },
   {
     "id": "FLOETTE_5",
-    "dexId": 929,
+    "dexId": 927,
     "speciesId": "FLOETTE",
     "formNumber": "5",
     "name": "Floette Eternal Flower",
@@ -9291,7 +9271,7 @@
   },
   {
     "id": "FLOETTE_6",
-    "dexId": 930,
+    "dexId": 928,
     "speciesId": "FLOETTE",
     "formNumber": "6",
     "name": "Mega Floette",
@@ -9301,7 +9281,7 @@
   },
   {
     "id": "FLORGES",
-    "dexId": 931,
+    "dexId": 929,
     "speciesId": "FLORGES",
     "formNumber": null,
     "name": "Florges",
@@ -9311,7 +9291,7 @@
   },
   {
     "id": "FLORGES_1",
-    "dexId": 932,
+    "dexId": 930,
     "speciesId": "FLORGES",
     "formNumber": "1",
     "name": "Florges Yellow Flower",
@@ -9321,7 +9301,7 @@
   },
   {
     "id": "FLORGES_2",
-    "dexId": 933,
+    "dexId": 931,
     "speciesId": "FLORGES",
     "formNumber": "2",
     "name": "Florges Orange Flower",
@@ -9331,7 +9311,7 @@
   },
   {
     "id": "FLORGES_3",
-    "dexId": 934,
+    "dexId": 932,
     "speciesId": "FLORGES",
     "formNumber": "3",
     "name": "Florges Blue Flower",
@@ -9341,7 +9321,7 @@
   },
   {
     "id": "FLORGES_4",
-    "dexId": 935,
+    "dexId": 933,
     "speciesId": "FLORGES",
     "formNumber": "4",
     "name": "Florges White Flower",
@@ -9351,7 +9331,7 @@
   },
   {
     "id": "SKIDDO",
-    "dexId": 936,
+    "dexId": 934,
     "speciesId": "SKIDDO",
     "formNumber": null,
     "name": "Skiddo",
@@ -9361,7 +9341,7 @@
   },
   {
     "id": "GOGOAT",
-    "dexId": 937,
+    "dexId": 935,
     "speciesId": "GOGOAT",
     "formNumber": null,
     "name": "Gogoat",
@@ -9371,7 +9351,7 @@
   },
   {
     "id": "PANCHAM",
-    "dexId": 938,
+    "dexId": 936,
     "speciesId": "PANCHAM",
     "formNumber": null,
     "name": "Pancham",
@@ -9381,7 +9361,7 @@
   },
   {
     "id": "PANGORO",
-    "dexId": 939,
+    "dexId": 937,
     "speciesId": "PANGORO",
     "formNumber": null,
     "name": "Pangoro",
@@ -9391,7 +9371,7 @@
   },
   {
     "id": "FURFROU",
-    "dexId": 940,
+    "dexId": 938,
     "speciesId": "FURFROU",
     "formNumber": null,
     "name": "Furfrou",
@@ -9401,7 +9381,7 @@
   },
   {
     "id": "FURFROU_1",
-    "dexId": 941,
+    "dexId": 939,
     "speciesId": "FURFROU",
     "formNumber": "1",
     "name": "Furfrou Heart Trim",
@@ -9411,7 +9391,7 @@
   },
   {
     "id": "FURFROU_2",
-    "dexId": 942,
+    "dexId": 940,
     "speciesId": "FURFROU",
     "formNumber": "2",
     "name": "Furfrou Star Trim",
@@ -9421,7 +9401,7 @@
   },
   {
     "id": "FURFROU_3",
-    "dexId": 943,
+    "dexId": 941,
     "speciesId": "FURFROU",
     "formNumber": "3",
     "name": "Furfrou Diamond Trim",
@@ -9431,7 +9411,7 @@
   },
   {
     "id": "FURFROU_4",
-    "dexId": 944,
+    "dexId": 942,
     "speciesId": "FURFROU",
     "formNumber": "4",
     "name": "Furfrou Debutante Trim",
@@ -9441,7 +9421,7 @@
   },
   {
     "id": "FURFROU_5",
-    "dexId": 945,
+    "dexId": 943,
     "speciesId": "FURFROU",
     "formNumber": "5",
     "name": "Furfrou Matron Trim",
@@ -9451,7 +9431,7 @@
   },
   {
     "id": "FURFROU_6",
-    "dexId": 946,
+    "dexId": 944,
     "speciesId": "FURFROU",
     "formNumber": "6",
     "name": "Furfrou Dandy Trim",
@@ -9461,7 +9441,7 @@
   },
   {
     "id": "FURFROU_7",
-    "dexId": 947,
+    "dexId": 945,
     "speciesId": "FURFROU",
     "formNumber": "7",
     "name": "Furfrou La Reine Trim",
@@ -9471,7 +9451,7 @@
   },
   {
     "id": "FURFROU_8",
-    "dexId": 948,
+    "dexId": 946,
     "speciesId": "FURFROU",
     "formNumber": "8",
     "name": "Furfrou Kabuki Trim",
@@ -9481,7 +9461,7 @@
   },
   {
     "id": "FURFROU_9",
-    "dexId": 949,
+    "dexId": 947,
     "speciesId": "FURFROU",
     "formNumber": "9",
     "name": "Furfrou Pharaoh Trim",
@@ -9491,7 +9471,7 @@
   },
   {
     "id": "ESPURR",
-    "dexId": 950,
+    "dexId": 948,
     "speciesId": "ESPURR",
     "formNumber": null,
     "name": "Espurr",
@@ -9501,7 +9481,7 @@
   },
   {
     "id": "MEOWSTIC",
-    "dexId": 951,
+    "dexId": 949,
     "speciesId": "MEOWSTIC",
     "formNumber": null,
     "name": "Meowstic",
@@ -9511,7 +9491,7 @@
   },
   {
     "id": "MEOWSTIC_1",
-    "dexId": 952,
+    "dexId": 950,
     "speciesId": "MEOWSTIC",
     "formNumber": "1",
     "name": "Meowstic Female",
@@ -9521,7 +9501,7 @@
   },
   {
     "id": "MEOWSTIC_2",
-    "dexId": 953,
+    "dexId": 951,
     "speciesId": "MEOWSTIC",
     "formNumber": "2",
     "name": "Mega Meowstic",
@@ -9530,18 +9510,8 @@
     "shinySprite": "images/sprites%20shiny/MEOWSTIC_2.png"
   },
   {
-    "id": "MEOWSTIC_3",
-    "dexId": 954,
-    "speciesId": "MEOWSTIC",
-    "formNumber": "3",
-    "name": "Meowstic Form 3",
-    "sortGroup": "MEOWSTIC",
-    "sprite": "images/sprites/MEOWSTIC_3.png",
-    "shinySprite": "images/sprites%20shiny/MEOWSTIC_3.png"
-  },
-  {
     "id": "HONEDGE",
-    "dexId": 955,
+    "dexId": 952,
     "speciesId": "HONEDGE",
     "formNumber": null,
     "name": "Honedge",
@@ -9551,7 +9521,7 @@
   },
   {
     "id": "DOUBLADE",
-    "dexId": 956,
+    "dexId": 953,
     "speciesId": "DOUBLADE",
     "formNumber": null,
     "name": "Doublade",
@@ -9561,7 +9531,7 @@
   },
   {
     "id": "AEGISLASH",
-    "dexId": 957,
+    "dexId": 954,
     "speciesId": "AEGISLASH",
     "formNumber": null,
     "name": "Aegislash",
@@ -9571,7 +9541,7 @@
   },
   {
     "id": "AEGISLASH_1",
-    "dexId": 958,
+    "dexId": 955,
     "speciesId": "AEGISLASH",
     "formNumber": "1",
     "name": "Aegislash Blade Forme",
@@ -9581,7 +9551,7 @@
   },
   {
     "id": "SPRITZEE",
-    "dexId": 959,
+    "dexId": 956,
     "speciesId": "SPRITZEE",
     "formNumber": null,
     "name": "Spritzee",
@@ -9591,7 +9561,7 @@
   },
   {
     "id": "AROMATISSE",
-    "dexId": 960,
+    "dexId": 957,
     "speciesId": "AROMATISSE",
     "formNumber": null,
     "name": "Aromatisse",
@@ -9601,7 +9571,7 @@
   },
   {
     "id": "SWIRLIX",
-    "dexId": 961,
+    "dexId": 958,
     "speciesId": "SWIRLIX",
     "formNumber": null,
     "name": "Swirlix",
@@ -9611,7 +9581,7 @@
   },
   {
     "id": "SLURPUFF",
-    "dexId": 962,
+    "dexId": 959,
     "speciesId": "SLURPUFF",
     "formNumber": null,
     "name": "Slurpuff",
@@ -9621,7 +9591,7 @@
   },
   {
     "id": "INKAY",
-    "dexId": 963,
+    "dexId": 960,
     "speciesId": "INKAY",
     "formNumber": null,
     "name": "Inkay",
@@ -9631,7 +9601,7 @@
   },
   {
     "id": "MALAMAR",
-    "dexId": 964,
+    "dexId": 961,
     "speciesId": "MALAMAR",
     "formNumber": null,
     "name": "Malamar",
@@ -9641,7 +9611,7 @@
   },
   {
     "id": "MALAMAR_1",
-    "dexId": 965,
+    "dexId": 962,
     "speciesId": "MALAMAR",
     "formNumber": "1",
     "name": "Mega Malamar",
@@ -9651,7 +9621,7 @@
   },
   {
     "id": "BINACLE",
-    "dexId": 966,
+    "dexId": 963,
     "speciesId": "BINACLE",
     "formNumber": null,
     "name": "Binacle",
@@ -9661,7 +9631,7 @@
   },
   {
     "id": "BARBARACLE",
-    "dexId": 967,
+    "dexId": 964,
     "speciesId": "BARBARACLE",
     "formNumber": null,
     "name": "Barbaracle",
@@ -9671,7 +9641,7 @@
   },
   {
     "id": "BARBARACLE_1",
-    "dexId": 968,
+    "dexId": 965,
     "speciesId": "BARBARACLE",
     "formNumber": "1",
     "name": "Mega Barbaracle",
@@ -9681,7 +9651,7 @@
   },
   {
     "id": "SKRELP",
-    "dexId": 969,
+    "dexId": 966,
     "speciesId": "SKRELP",
     "formNumber": null,
     "name": "Skrelp",
@@ -9691,7 +9661,7 @@
   },
   {
     "id": "DRAGALGE",
-    "dexId": 970,
+    "dexId": 967,
     "speciesId": "DRAGALGE",
     "formNumber": null,
     "name": "Dragalge",
@@ -9701,7 +9671,7 @@
   },
   {
     "id": "DRAGALGE_1",
-    "dexId": 971,
+    "dexId": 968,
     "speciesId": "DRAGALGE",
     "formNumber": "1",
     "name": "Mega Dragalge",
@@ -9711,7 +9681,7 @@
   },
   {
     "id": "CLAUNCHER",
-    "dexId": 972,
+    "dexId": 969,
     "speciesId": "CLAUNCHER",
     "formNumber": null,
     "name": "Clauncher",
@@ -9721,7 +9691,7 @@
   },
   {
     "id": "CLAWITZER",
-    "dexId": 973,
+    "dexId": 970,
     "speciesId": "CLAWITZER",
     "formNumber": null,
     "name": "Clawitzer",
@@ -9731,7 +9701,7 @@
   },
   {
     "id": "HELIOPTILE",
-    "dexId": 974,
+    "dexId": 971,
     "speciesId": "HELIOPTILE",
     "formNumber": null,
     "name": "Helioptile",
@@ -9741,7 +9711,7 @@
   },
   {
     "id": "HELIOLISK",
-    "dexId": 975,
+    "dexId": 972,
     "speciesId": "HELIOLISK",
     "formNumber": null,
     "name": "Heliolisk",
@@ -9751,7 +9721,7 @@
   },
   {
     "id": "TYRUNT",
-    "dexId": 976,
+    "dexId": 973,
     "speciesId": "TYRUNT",
     "formNumber": null,
     "name": "Tyrunt",
@@ -9761,7 +9731,7 @@
   },
   {
     "id": "TYRANTRUM",
-    "dexId": 977,
+    "dexId": 974,
     "speciesId": "TYRANTRUM",
     "formNumber": null,
     "name": "Tyrantrum",
@@ -9771,7 +9741,7 @@
   },
   {
     "id": "AMAURA",
-    "dexId": 978,
+    "dexId": 975,
     "speciesId": "AMAURA",
     "formNumber": null,
     "name": "Amaura",
@@ -9781,7 +9751,7 @@
   },
   {
     "id": "AURORUS",
-    "dexId": 979,
+    "dexId": 976,
     "speciesId": "AURORUS",
     "formNumber": null,
     "name": "Aurorus",
@@ -9791,7 +9761,7 @@
   },
   {
     "id": "SYLVEON",
-    "dexId": 980,
+    "dexId": 977,
     "speciesId": "SYLVEON",
     "formNumber": null,
     "name": "Sylveon",
@@ -9801,7 +9771,7 @@
   },
   {
     "id": "HAWLUCHA",
-    "dexId": 981,
+    "dexId": 978,
     "speciesId": "HAWLUCHA",
     "formNumber": null,
     "name": "Hawlucha",
@@ -9811,7 +9781,7 @@
   },
   {
     "id": "HAWLUCHA_1",
-    "dexId": 982,
+    "dexId": 979,
     "speciesId": "HAWLUCHA",
     "formNumber": "1",
     "name": "Mega Hawlucha",
@@ -9821,7 +9791,7 @@
   },
   {
     "id": "DEDENNE",
-    "dexId": 983,
+    "dexId": 980,
     "speciesId": "DEDENNE",
     "formNumber": null,
     "name": "Dedenne",
@@ -9831,7 +9801,7 @@
   },
   {
     "id": "CARBINK",
-    "dexId": 984,
+    "dexId": 981,
     "speciesId": "CARBINK",
     "formNumber": null,
     "name": "Carbink",
@@ -9841,7 +9811,7 @@
   },
   {
     "id": "GOOMY",
-    "dexId": 985,
+    "dexId": 982,
     "speciesId": "GOOMY",
     "formNumber": null,
     "name": "Goomy",
@@ -9851,7 +9821,7 @@
   },
   {
     "id": "SLIGGOO",
-    "dexId": 986,
+    "dexId": 983,
     "speciesId": "SLIGGOO",
     "formNumber": null,
     "name": "Sliggoo",
@@ -9861,7 +9831,7 @@
   },
   {
     "id": "SLIGGOO_1",
-    "dexId": 987,
+    "dexId": 984,
     "speciesId": "SLIGGOO",
     "formNumber": "1",
     "name": "Sliggoo Hisuian",
@@ -9871,7 +9841,7 @@
   },
   {
     "id": "GOODRA",
-    "dexId": 988,
+    "dexId": 985,
     "speciesId": "GOODRA",
     "formNumber": null,
     "name": "Goodra",
@@ -9881,7 +9851,7 @@
   },
   {
     "id": "GOODRA_1",
-    "dexId": 989,
+    "dexId": 986,
     "speciesId": "GOODRA",
     "formNumber": "1",
     "name": "Goodra Hisuian",
@@ -9891,7 +9861,7 @@
   },
   {
     "id": "KLEFKI",
-    "dexId": 990,
+    "dexId": 987,
     "speciesId": "KLEFKI",
     "formNumber": null,
     "name": "Klefki",
@@ -9901,7 +9871,7 @@
   },
   {
     "id": "PHANTUMP",
-    "dexId": 991,
+    "dexId": 988,
     "speciesId": "PHANTUMP",
     "formNumber": null,
     "name": "Phantump",
@@ -9911,7 +9881,7 @@
   },
   {
     "id": "TREVENANT",
-    "dexId": 992,
+    "dexId": 989,
     "speciesId": "TREVENANT",
     "formNumber": null,
     "name": "Trevenant",
@@ -9921,7 +9891,7 @@
   },
   {
     "id": "PUMPKABOO",
-    "dexId": 993,
+    "dexId": 990,
     "speciesId": "PUMPKABOO",
     "formNumber": null,
     "name": "Pumpkaboo",
@@ -9931,7 +9901,7 @@
   },
   {
     "id": "PUMPKABOO_1",
-    "dexId": 994,
+    "dexId": 991,
     "speciesId": "PUMPKABOO",
     "formNumber": "1",
     "name": "Pumpkaboo Average Size",
@@ -9941,7 +9911,7 @@
   },
   {
     "id": "PUMPKABOO_2",
-    "dexId": 995,
+    "dexId": 992,
     "speciesId": "PUMPKABOO",
     "formNumber": "2",
     "name": "Pumpkaboo Large Size",
@@ -9951,7 +9921,7 @@
   },
   {
     "id": "PUMPKABOO_3",
-    "dexId": 996,
+    "dexId": 993,
     "speciesId": "PUMPKABOO",
     "formNumber": "3",
     "name": "Pumpkaboo Super Size",
@@ -9961,7 +9931,7 @@
   },
   {
     "id": "GOURGEIST",
-    "dexId": 997,
+    "dexId": 994,
     "speciesId": "GOURGEIST",
     "formNumber": null,
     "name": "Gourgeist",
@@ -9971,7 +9941,7 @@
   },
   {
     "id": "GOURGEIST_1",
-    "dexId": 998,
+    "dexId": 995,
     "speciesId": "GOURGEIST",
     "formNumber": "1",
     "name": "Gourgeist Average Size",
@@ -9981,7 +9951,7 @@
   },
   {
     "id": "GOURGEIST_2",
-    "dexId": 999,
+    "dexId": 996,
     "speciesId": "GOURGEIST",
     "formNumber": "2",
     "name": "Gourgeist Large Size",
@@ -9991,7 +9961,7 @@
   },
   {
     "id": "GOURGEIST_3",
-    "dexId": 1000,
+    "dexId": 997,
     "speciesId": "GOURGEIST",
     "formNumber": "3",
     "name": "Gourgeist Super Size",
@@ -10001,7 +9971,7 @@
   },
   {
     "id": "BERGMITE",
-    "dexId": 1001,
+    "dexId": 998,
     "speciesId": "BERGMITE",
     "formNumber": null,
     "name": "Bergmite",
@@ -10011,7 +9981,7 @@
   },
   {
     "id": "AVALUGG",
-    "dexId": 1002,
+    "dexId": 999,
     "speciesId": "AVALUGG",
     "formNumber": null,
     "name": "Avalugg",
@@ -10021,7 +9991,7 @@
   },
   {
     "id": "AVALUGG_1",
-    "dexId": 1003,
+    "dexId": 1000,
     "speciesId": "AVALUGG",
     "formNumber": "1",
     "name": "Avalugg Hisuian",
@@ -10031,7 +10001,7 @@
   },
   {
     "id": "NOIBAT",
-    "dexId": 1004,
+    "dexId": 1001,
     "speciesId": "NOIBAT",
     "formNumber": null,
     "name": "Noibat",
@@ -10041,7 +10011,7 @@
   },
   {
     "id": "NOIVERN",
-    "dexId": 1005,
+    "dexId": 1002,
     "speciesId": "NOIVERN",
     "formNumber": null,
     "name": "Noivern",
@@ -10051,7 +10021,7 @@
   },
   {
     "id": "XERNEAS",
-    "dexId": 1006,
+    "dexId": 1003,
     "speciesId": "XERNEAS",
     "formNumber": null,
     "name": "Xerneas",
@@ -10061,7 +10031,7 @@
   },
   {
     "id": "XERNEAS_1",
-    "dexId": 1007,
+    "dexId": 1004,
     "speciesId": "XERNEAS",
     "formNumber": "1",
     "name": "Xerneas Active Mode",
@@ -10071,7 +10041,7 @@
   },
   {
     "id": "YVELTAL",
-    "dexId": 1008,
+    "dexId": 1005,
     "speciesId": "YVELTAL",
     "formNumber": null,
     "name": "Yveltal",
@@ -10081,7 +10051,7 @@
   },
   {
     "id": "ZYGARDE",
-    "dexId": 1009,
+    "dexId": 1006,
     "speciesId": "ZYGARDE",
     "formNumber": null,
     "name": "Zygarde",
@@ -10091,7 +10061,7 @@
   },
   {
     "id": "ZYGARDE_1",
-    "dexId": 1010,
+    "dexId": 1007,
     "speciesId": "ZYGARDE",
     "formNumber": "1",
     "name": "Zygarde 10% Forme",
@@ -10101,7 +10071,7 @@
   },
   {
     "id": "ZYGARDE_2",
-    "dexId": 1011,
+    "dexId": 1008,
     "speciesId": "ZYGARDE",
     "formNumber": "2",
     "name": "Zygarde Complete Forme",
@@ -10111,7 +10081,7 @@
   },
   {
     "id": "ZYGARDE_4",
-    "dexId": 1012,
+    "dexId": 1009,
     "speciesId": "ZYGARDE",
     "formNumber": "4",
     "name": "Mega Zygarde",
@@ -10121,7 +10091,7 @@
   },
   {
     "id": "DIANCIE",
-    "dexId": 1013,
+    "dexId": 1010,
     "speciesId": "DIANCIE",
     "formNumber": null,
     "name": "Diancie",
@@ -10131,7 +10101,7 @@
   },
   {
     "id": "DIANCIE_1",
-    "dexId": 1014,
+    "dexId": 1011,
     "speciesId": "DIANCIE",
     "formNumber": "1",
     "name": "Mega Diancie",
@@ -10141,7 +10111,7 @@
   },
   {
     "id": "HOOPA",
-    "dexId": 1015,
+    "dexId": 1012,
     "speciesId": "HOOPA",
     "formNumber": null,
     "name": "Hoopa",
@@ -10151,7 +10121,7 @@
   },
   {
     "id": "HOOPA_1",
-    "dexId": 1016,
+    "dexId": 1013,
     "speciesId": "HOOPA",
     "formNumber": "1",
     "name": "Hoopa Unbound",
@@ -10161,7 +10131,7 @@
   },
   {
     "id": "VOLCANION",
-    "dexId": 1017,
+    "dexId": 1014,
     "speciesId": "VOLCANION",
     "formNumber": null,
     "name": "Volcanion",
@@ -10171,7 +10141,7 @@
   },
   {
     "id": "ROWLET",
-    "dexId": 1018,
+    "dexId": 1015,
     "speciesId": "ROWLET",
     "formNumber": null,
     "name": "Rowlet",
@@ -10181,7 +10151,7 @@
   },
   {
     "id": "DARTRIX",
-    "dexId": 1019,
+    "dexId": 1016,
     "speciesId": "DARTRIX",
     "formNumber": null,
     "name": "Dartrix",
@@ -10191,7 +10161,7 @@
   },
   {
     "id": "DECIDUEYE",
-    "dexId": 1020,
+    "dexId": 1017,
     "speciesId": "DECIDUEYE",
     "formNumber": null,
     "name": "Decidueye",
@@ -10201,7 +10171,7 @@
   },
   {
     "id": "DECIDUEYE_1",
-    "dexId": 1021,
+    "dexId": 1018,
     "speciesId": "DECIDUEYE",
     "formNumber": "1",
     "name": "Decidueye Hisuian",
@@ -10211,7 +10181,7 @@
   },
   {
     "id": "LITTEN",
-    "dexId": 1022,
+    "dexId": 1019,
     "speciesId": "LITTEN",
     "formNumber": null,
     "name": "Litten",
@@ -10221,7 +10191,7 @@
   },
   {
     "id": "TORRACAT",
-    "dexId": 1023,
+    "dexId": 1020,
     "speciesId": "TORRACAT",
     "formNumber": null,
     "name": "Torracat",
@@ -10231,7 +10201,7 @@
   },
   {
     "id": "INCINEROAR",
-    "dexId": 1024,
+    "dexId": 1021,
     "speciesId": "INCINEROAR",
     "formNumber": null,
     "name": "Incineroar",
@@ -10241,7 +10211,7 @@
   },
   {
     "id": "POPPLIO",
-    "dexId": 1025,
+    "dexId": 1022,
     "speciesId": "POPPLIO",
     "formNumber": null,
     "name": "Popplio",
@@ -10251,7 +10221,7 @@
   },
   {
     "id": "BRIONNE",
-    "dexId": 1026,
+    "dexId": 1023,
     "speciesId": "BRIONNE",
     "formNumber": null,
     "name": "Brionne",
@@ -10261,7 +10231,7 @@
   },
   {
     "id": "PRIMARINA",
-    "dexId": 1027,
+    "dexId": 1024,
     "speciesId": "PRIMARINA",
     "formNumber": null,
     "name": "Primarina",
@@ -10271,7 +10241,7 @@
   },
   {
     "id": "PIKIPEK",
-    "dexId": 1028,
+    "dexId": 1025,
     "speciesId": "PIKIPEK",
     "formNumber": null,
     "name": "Pikipek",
@@ -10281,7 +10251,7 @@
   },
   {
     "id": "TRUMBEAK",
-    "dexId": 1029,
+    "dexId": 1026,
     "speciesId": "TRUMBEAK",
     "formNumber": null,
     "name": "Trumbeak",
@@ -10291,7 +10261,7 @@
   },
   {
     "id": "TOUCANNON",
-    "dexId": 1030,
+    "dexId": 1027,
     "speciesId": "TOUCANNON",
     "formNumber": null,
     "name": "Toucannon",
@@ -10301,7 +10271,7 @@
   },
   {
     "id": "YUNGOOS",
-    "dexId": 1031,
+    "dexId": 1028,
     "speciesId": "YUNGOOS",
     "formNumber": null,
     "name": "Yungoos",
@@ -10311,7 +10281,7 @@
   },
   {
     "id": "GUMSHOOS",
-    "dexId": 1032,
+    "dexId": 1029,
     "speciesId": "GUMSHOOS",
     "formNumber": null,
     "name": "Gumshoos",
@@ -10321,7 +10291,7 @@
   },
   {
     "id": "GRUBBIN",
-    "dexId": 1033,
+    "dexId": 1030,
     "speciesId": "GRUBBIN",
     "formNumber": null,
     "name": "Grubbin",
@@ -10331,7 +10301,7 @@
   },
   {
     "id": "CHARJABUG",
-    "dexId": 1034,
+    "dexId": 1031,
     "speciesId": "CHARJABUG",
     "formNumber": null,
     "name": "Charjabug",
@@ -10341,7 +10311,7 @@
   },
   {
     "id": "VIKAVOLT",
-    "dexId": 1035,
+    "dexId": 1032,
     "speciesId": "VIKAVOLT",
     "formNumber": null,
     "name": "Vikavolt",
@@ -10351,7 +10321,7 @@
   },
   {
     "id": "CRABRAWLER",
-    "dexId": 1036,
+    "dexId": 1033,
     "speciesId": "CRABRAWLER",
     "formNumber": null,
     "name": "Crabrawler",
@@ -10361,7 +10331,7 @@
   },
   {
     "id": "CRABOMINABLE",
-    "dexId": 1037,
+    "dexId": 1034,
     "speciesId": "CRABOMINABLE",
     "formNumber": null,
     "name": "Crabominable",
@@ -10371,7 +10341,7 @@
   },
   {
     "id": "CRABOMINABLE_1",
-    "dexId": 1038,
+    "dexId": 1035,
     "speciesId": "CRABOMINABLE",
     "formNumber": "1",
     "name": "Mega Crabominable",
@@ -10381,7 +10351,7 @@
   },
   {
     "id": "ORICORIO",
-    "dexId": 1039,
+    "dexId": 1036,
     "speciesId": "ORICORIO",
     "formNumber": null,
     "name": "Oricorio",
@@ -10391,7 +10361,7 @@
   },
   {
     "id": "ORICORIO_1",
-    "dexId": 1040,
+    "dexId": 1037,
     "speciesId": "ORICORIO",
     "formNumber": "1",
     "name": "Oricorio Pom-Pom Style",
@@ -10401,7 +10371,7 @@
   },
   {
     "id": "ORICORIO_2",
-    "dexId": 1041,
+    "dexId": 1038,
     "speciesId": "ORICORIO",
     "formNumber": "2",
     "name": "Oricorio Pa'u Style",
@@ -10411,7 +10381,7 @@
   },
   {
     "id": "ORICORIO_3",
-    "dexId": 1042,
+    "dexId": 1039,
     "speciesId": "ORICORIO",
     "formNumber": "3",
     "name": "Oricorio Sensu Style",
@@ -10421,7 +10391,7 @@
   },
   {
     "id": "CUTIEFLY",
-    "dexId": 1043,
+    "dexId": 1040,
     "speciesId": "CUTIEFLY",
     "formNumber": null,
     "name": "Cutiefly",
@@ -10431,7 +10401,7 @@
   },
   {
     "id": "RIBOMBEE",
-    "dexId": 1044,
+    "dexId": 1041,
     "speciesId": "RIBOMBEE",
     "formNumber": null,
     "name": "Ribombee",
@@ -10441,7 +10411,7 @@
   },
   {
     "id": "ROCKRUFF",
-    "dexId": 1045,
+    "dexId": 1042,
     "speciesId": "ROCKRUFF",
     "formNumber": null,
     "name": "Rockruff",
@@ -10451,7 +10421,7 @@
   },
   {
     "id": "LYCANROC",
-    "dexId": 1046,
+    "dexId": 1043,
     "speciesId": "LYCANROC",
     "formNumber": null,
     "name": "Lycanroc",
@@ -10461,7 +10431,7 @@
   },
   {
     "id": "LYCANROC_1",
-    "dexId": 1047,
+    "dexId": 1044,
     "speciesId": "LYCANROC",
     "formNumber": "1",
     "name": "Lycanroc Midnight Form",
@@ -10471,7 +10441,7 @@
   },
   {
     "id": "LYCANROC_2",
-    "dexId": 1048,
+    "dexId": 1045,
     "speciesId": "LYCANROC",
     "formNumber": "2",
     "name": "Lycanroc Dusk Form",
@@ -10481,7 +10451,7 @@
   },
   {
     "id": "WISHIWASHI",
-    "dexId": 1049,
+    "dexId": 1046,
     "speciesId": "WISHIWASHI",
     "formNumber": null,
     "name": "Wishiwashi",
@@ -10491,7 +10461,7 @@
   },
   {
     "id": "WISHIWASHI_1",
-    "dexId": 1050,
+    "dexId": 1047,
     "speciesId": "WISHIWASHI",
     "formNumber": "1",
     "name": "Wishiwashi School Form",
@@ -10501,7 +10471,7 @@
   },
   {
     "id": "MAREANIE",
-    "dexId": 1051,
+    "dexId": 1048,
     "speciesId": "MAREANIE",
     "formNumber": null,
     "name": "Mareanie",
@@ -10511,7 +10481,7 @@
   },
   {
     "id": "TOXAPEX",
-    "dexId": 1052,
+    "dexId": 1049,
     "speciesId": "TOXAPEX",
     "formNumber": null,
     "name": "Toxapex",
@@ -10521,7 +10491,7 @@
   },
   {
     "id": "MUDBRAY",
-    "dexId": 1053,
+    "dexId": 1050,
     "speciesId": "MUDBRAY",
     "formNumber": null,
     "name": "Mudbray",
@@ -10531,7 +10501,7 @@
   },
   {
     "id": "MUDSDALE",
-    "dexId": 1054,
+    "dexId": 1051,
     "speciesId": "MUDSDALE",
     "formNumber": null,
     "name": "Mudsdale",
@@ -10541,7 +10511,7 @@
   },
   {
     "id": "DEWPIDER",
-    "dexId": 1055,
+    "dexId": 1052,
     "speciesId": "DEWPIDER",
     "formNumber": null,
     "name": "Dewpider",
@@ -10551,7 +10521,7 @@
   },
   {
     "id": "ARAQUANID",
-    "dexId": 1056,
+    "dexId": 1053,
     "speciesId": "ARAQUANID",
     "formNumber": null,
     "name": "Araquanid",
@@ -10561,7 +10531,7 @@
   },
   {
     "id": "FOMANTIS",
-    "dexId": 1057,
+    "dexId": 1054,
     "speciesId": "FOMANTIS",
     "formNumber": null,
     "name": "Fomantis",
@@ -10571,7 +10541,7 @@
   },
   {
     "id": "LURANTIS",
-    "dexId": 1058,
+    "dexId": 1055,
     "speciesId": "LURANTIS",
     "formNumber": null,
     "name": "Lurantis",
@@ -10581,7 +10551,7 @@
   },
   {
     "id": "MORELULL",
-    "dexId": 1059,
+    "dexId": 1056,
     "speciesId": "MORELULL",
     "formNumber": null,
     "name": "Morelull",
@@ -10591,7 +10561,7 @@
   },
   {
     "id": "SHIINOTIC",
-    "dexId": 1060,
+    "dexId": 1057,
     "speciesId": "SHIINOTIC",
     "formNumber": null,
     "name": "Shiinotic",
@@ -10601,7 +10571,7 @@
   },
   {
     "id": "SALANDIT",
-    "dexId": 1061,
+    "dexId": 1058,
     "speciesId": "SALANDIT",
     "formNumber": null,
     "name": "Salandit",
@@ -10611,7 +10581,7 @@
   },
   {
     "id": "SALAZZLE",
-    "dexId": 1062,
+    "dexId": 1059,
     "speciesId": "SALAZZLE",
     "formNumber": null,
     "name": "Salazzle",
@@ -10621,7 +10591,7 @@
   },
   {
     "id": "STUFFUL",
-    "dexId": 1063,
+    "dexId": 1060,
     "speciesId": "STUFFUL",
     "formNumber": null,
     "name": "Stufful",
@@ -10631,7 +10601,7 @@
   },
   {
     "id": "BEWEAR",
-    "dexId": 1064,
+    "dexId": 1061,
     "speciesId": "BEWEAR",
     "formNumber": null,
     "name": "Bewear",
@@ -10641,7 +10611,7 @@
   },
   {
     "id": "BOUNSWEET",
-    "dexId": 1065,
+    "dexId": 1062,
     "speciesId": "BOUNSWEET",
     "formNumber": null,
     "name": "Bounsweet",
@@ -10651,7 +10621,7 @@
   },
   {
     "id": "STEENEE",
-    "dexId": 1066,
+    "dexId": 1063,
     "speciesId": "STEENEE",
     "formNumber": null,
     "name": "Steenee",
@@ -10661,7 +10631,7 @@
   },
   {
     "id": "TSAREENA",
-    "dexId": 1067,
+    "dexId": 1064,
     "speciesId": "TSAREENA",
     "formNumber": null,
     "name": "Tsareena",
@@ -10671,7 +10641,7 @@
   },
   {
     "id": "COMFEY",
-    "dexId": 1068,
+    "dexId": 1065,
     "speciesId": "COMFEY",
     "formNumber": null,
     "name": "Comfey",
@@ -10681,7 +10651,7 @@
   },
   {
     "id": "ORANGURU",
-    "dexId": 1069,
+    "dexId": 1066,
     "speciesId": "ORANGURU",
     "formNumber": null,
     "name": "Oranguru",
@@ -10691,7 +10661,7 @@
   },
   {
     "id": "PASSIMIAN",
-    "dexId": 1070,
+    "dexId": 1067,
     "speciesId": "PASSIMIAN",
     "formNumber": null,
     "name": "Passimian",
@@ -10701,7 +10671,7 @@
   },
   {
     "id": "WIMPOD",
-    "dexId": 1071,
+    "dexId": 1068,
     "speciesId": "WIMPOD",
     "formNumber": null,
     "name": "Wimpod",
@@ -10711,7 +10681,7 @@
   },
   {
     "id": "GOLISOPOD",
-    "dexId": 1072,
+    "dexId": 1069,
     "speciesId": "GOLISOPOD",
     "formNumber": null,
     "name": "Golisopod",
@@ -10721,7 +10691,7 @@
   },
   {
     "id": "GOLISOPOD_1",
-    "dexId": 1073,
+    "dexId": 1070,
     "speciesId": "GOLISOPOD",
     "formNumber": "1",
     "name": "Mega Golisopod",
@@ -10731,7 +10701,7 @@
   },
   {
     "id": "SANDYGAST",
-    "dexId": 1074,
+    "dexId": 1071,
     "speciesId": "SANDYGAST",
     "formNumber": null,
     "name": "Sandygast",
@@ -10741,7 +10711,7 @@
   },
   {
     "id": "PALOSSAND",
-    "dexId": 1075,
+    "dexId": 1072,
     "speciesId": "PALOSSAND",
     "formNumber": null,
     "name": "Palossand",
@@ -10751,7 +10721,7 @@
   },
   {
     "id": "PYUKUMUKU",
-    "dexId": 1076,
+    "dexId": 1073,
     "speciesId": "PYUKUMUKU",
     "formNumber": null,
     "name": "Pyukumuku",
@@ -10761,7 +10731,7 @@
   },
   {
     "id": "TYPENULL",
-    "dexId": 1077,
+    "dexId": 1074,
     "speciesId": "TYPENULL",
     "formNumber": null,
     "name": "Type: Null",
@@ -10771,7 +10741,7 @@
   },
   {
     "id": "SILVALLY",
-    "dexId": 1078,
+    "dexId": 1075,
     "speciesId": "SILVALLY",
     "formNumber": null,
     "name": "Silvally",
@@ -10781,7 +10751,7 @@
   },
   {
     "id": "SILVALLY_1",
-    "dexId": 1079,
+    "dexId": 1076,
     "speciesId": "SILVALLY",
     "formNumber": "1",
     "name": "Silvally Type: Fighting",
@@ -10791,7 +10761,7 @@
   },
   {
     "id": "SILVALLY_2",
-    "dexId": 1080,
+    "dexId": 1077,
     "speciesId": "SILVALLY",
     "formNumber": "2",
     "name": "Silvally Type: Flying",
@@ -10801,7 +10771,7 @@
   },
   {
     "id": "SILVALLY_3",
-    "dexId": 1081,
+    "dexId": 1078,
     "speciesId": "SILVALLY",
     "formNumber": "3",
     "name": "Silvally Type: Poison",
@@ -10811,7 +10781,7 @@
   },
   {
     "id": "SILVALLY_4",
-    "dexId": 1082,
+    "dexId": 1079,
     "speciesId": "SILVALLY",
     "formNumber": "4",
     "name": "Silvally Type: Ground",
@@ -10821,7 +10791,7 @@
   },
   {
     "id": "SILVALLY_5",
-    "dexId": 1083,
+    "dexId": 1080,
     "speciesId": "SILVALLY",
     "formNumber": "5",
     "name": "Silvally Type: Rock",
@@ -10831,7 +10801,7 @@
   },
   {
     "id": "SILVALLY_6",
-    "dexId": 1084,
+    "dexId": 1081,
     "speciesId": "SILVALLY",
     "formNumber": "6",
     "name": "Silvally Type: Bug",
@@ -10841,7 +10811,7 @@
   },
   {
     "id": "SILVALLY_7",
-    "dexId": 1085,
+    "dexId": 1082,
     "speciesId": "SILVALLY",
     "formNumber": "7",
     "name": "Silvally Type: Ghost",
@@ -10851,7 +10821,7 @@
   },
   {
     "id": "SILVALLY_8",
-    "dexId": 1086,
+    "dexId": 1083,
     "speciesId": "SILVALLY",
     "formNumber": "8",
     "name": "Silvally Type: Steel",
@@ -10861,7 +10831,7 @@
   },
   {
     "id": "SILVALLY_10",
-    "dexId": 1087,
+    "dexId": 1084,
     "speciesId": "SILVALLY",
     "formNumber": "10",
     "name": "Silvally Type: Fire",
@@ -10871,7 +10841,7 @@
   },
   {
     "id": "SILVALLY_11",
-    "dexId": 1088,
+    "dexId": 1085,
     "speciesId": "SILVALLY",
     "formNumber": "11",
     "name": "Silvally Type: Water",
@@ -10881,7 +10851,7 @@
   },
   {
     "id": "SILVALLY_12",
-    "dexId": 1089,
+    "dexId": 1086,
     "speciesId": "SILVALLY",
     "formNumber": "12",
     "name": "Silvally Type: Grass",
@@ -10891,7 +10861,7 @@
   },
   {
     "id": "SILVALLY_13",
-    "dexId": 1090,
+    "dexId": 1087,
     "speciesId": "SILVALLY",
     "formNumber": "13",
     "name": "Silvally Type: Electric",
@@ -10901,7 +10871,7 @@
   },
   {
     "id": "SILVALLY_14",
-    "dexId": 1091,
+    "dexId": 1088,
     "speciesId": "SILVALLY",
     "formNumber": "14",
     "name": "Silvally Type: Psychic",
@@ -10911,7 +10881,7 @@
   },
   {
     "id": "SILVALLY_15",
-    "dexId": 1092,
+    "dexId": 1089,
     "speciesId": "SILVALLY",
     "formNumber": "15",
     "name": "Silvally Type: Ice",
@@ -10921,7 +10891,7 @@
   },
   {
     "id": "SILVALLY_16",
-    "dexId": 1093,
+    "dexId": 1090,
     "speciesId": "SILVALLY",
     "formNumber": "16",
     "name": "Silvally Type: Dragon",
@@ -10931,7 +10901,7 @@
   },
   {
     "id": "SILVALLY_17",
-    "dexId": 1094,
+    "dexId": 1091,
     "speciesId": "SILVALLY",
     "formNumber": "17",
     "name": "Silvally Type: Dark",
@@ -10941,7 +10911,7 @@
   },
   {
     "id": "SILVALLY_18",
-    "dexId": 1095,
+    "dexId": 1092,
     "speciesId": "SILVALLY",
     "formNumber": "18",
     "name": "Silvally Type: Fairy",
@@ -10951,7 +10921,7 @@
   },
   {
     "id": "MINIOR",
-    "dexId": 1096,
+    "dexId": 1093,
     "speciesId": "MINIOR",
     "formNumber": null,
     "name": "Minior",
@@ -10961,7 +10931,7 @@
   },
   {
     "id": "MINIOR_7",
-    "dexId": 1097,
+    "dexId": 1094,
     "speciesId": "MINIOR",
     "formNumber": "7",
     "name": "Minior Red Core",
@@ -10971,7 +10941,7 @@
   },
   {
     "id": "MINIOR_8",
-    "dexId": 1098,
+    "dexId": 1095,
     "speciesId": "MINIOR",
     "formNumber": "8",
     "name": "Minior Orange Core",
@@ -10981,7 +10951,7 @@
   },
   {
     "id": "MINIOR_9",
-    "dexId": 1099,
+    "dexId": 1096,
     "speciesId": "MINIOR",
     "formNumber": "9",
     "name": "Minior Yellow Core",
@@ -10991,7 +10961,7 @@
   },
   {
     "id": "MINIOR_10",
-    "dexId": 1100,
+    "dexId": 1097,
     "speciesId": "MINIOR",
     "formNumber": "10",
     "name": "Minior Green Core",
@@ -11001,7 +10971,7 @@
   },
   {
     "id": "MINIOR_11",
-    "dexId": 1101,
+    "dexId": 1098,
     "speciesId": "MINIOR",
     "formNumber": "11",
     "name": "Minior Blue Core",
@@ -11011,7 +10981,7 @@
   },
   {
     "id": "MINIOR_12",
-    "dexId": 1102,
+    "dexId": 1099,
     "speciesId": "MINIOR",
     "formNumber": "12",
     "name": "Minior Indigo Core",
@@ -11021,7 +10991,7 @@
   },
   {
     "id": "MINIOR_13",
-    "dexId": 1103,
+    "dexId": 1100,
     "speciesId": "MINIOR",
     "formNumber": "13",
     "name": "Minior Violet Core",
@@ -11031,7 +11001,7 @@
   },
   {
     "id": "KOMALA",
-    "dexId": 1104,
+    "dexId": 1101,
     "speciesId": "KOMALA",
     "formNumber": null,
     "name": "Komala",
@@ -11041,7 +11011,7 @@
   },
   {
     "id": "TURTONATOR",
-    "dexId": 1105,
+    "dexId": 1102,
     "speciesId": "TURTONATOR",
     "formNumber": null,
     "name": "Turtonator",
@@ -11051,7 +11021,7 @@
   },
   {
     "id": "TOGEDEMARU",
-    "dexId": 1106,
+    "dexId": 1103,
     "speciesId": "TOGEDEMARU",
     "formNumber": null,
     "name": "Togedemaru",
@@ -11061,7 +11031,7 @@
   },
   {
     "id": "MIMIKYU",
-    "dexId": 1107,
+    "dexId": 1104,
     "speciesId": "MIMIKYU",
     "formNumber": null,
     "name": "Mimikyu",
@@ -11071,7 +11041,7 @@
   },
   {
     "id": "MIMIKYU_1",
-    "dexId": 1108,
+    "dexId": 1105,
     "speciesId": "MIMIKYU",
     "formNumber": "1",
     "name": "Mimikyu Busted Form",
@@ -11081,7 +11051,7 @@
   },
   {
     "id": "BRUXISH",
-    "dexId": 1109,
+    "dexId": 1106,
     "speciesId": "BRUXISH",
     "formNumber": null,
     "name": "Bruxish",
@@ -11091,7 +11061,7 @@
   },
   {
     "id": "DRAMPA",
-    "dexId": 1110,
+    "dexId": 1107,
     "speciesId": "DRAMPA",
     "formNumber": null,
     "name": "Drampa",
@@ -11101,7 +11071,7 @@
   },
   {
     "id": "DRAMPA_1",
-    "dexId": 1111,
+    "dexId": 1108,
     "speciesId": "DRAMPA",
     "formNumber": "1",
     "name": "Mega Drampa",
@@ -11111,7 +11081,7 @@
   },
   {
     "id": "DHELMISE",
-    "dexId": 1112,
+    "dexId": 1109,
     "speciesId": "DHELMISE",
     "formNumber": null,
     "name": "Dhelmise",
@@ -11121,7 +11091,7 @@
   },
   {
     "id": "JANGMOO",
-    "dexId": 1113,
+    "dexId": 1110,
     "speciesId": "JANGMOO",
     "formNumber": null,
     "name": "Jangmo-o",
@@ -11131,7 +11101,7 @@
   },
   {
     "id": "HAKAMOO",
-    "dexId": 1114,
+    "dexId": 1111,
     "speciesId": "HAKAMOO",
     "formNumber": null,
     "name": "Hakamo-o",
@@ -11141,7 +11111,7 @@
   },
   {
     "id": "KOMMOO",
-    "dexId": 1115,
+    "dexId": 1112,
     "speciesId": "KOMMOO",
     "formNumber": null,
     "name": "Kommo-o",
@@ -11151,7 +11121,7 @@
   },
   {
     "id": "TAPUKOKO",
-    "dexId": 1116,
+    "dexId": 1113,
     "speciesId": "TAPUKOKO",
     "formNumber": null,
     "name": "Tapu Koko",
@@ -11161,7 +11131,7 @@
   },
   {
     "id": "TAPULELE",
-    "dexId": 1117,
+    "dexId": 1114,
     "speciesId": "TAPULELE",
     "formNumber": null,
     "name": "Tapu Lele",
@@ -11171,7 +11141,7 @@
   },
   {
     "id": "TAPUBULU",
-    "dexId": 1118,
+    "dexId": 1115,
     "speciesId": "TAPUBULU",
     "formNumber": null,
     "name": "Tapu Bulu",
@@ -11181,7 +11151,7 @@
   },
   {
     "id": "TAPUFINI",
-    "dexId": 1119,
+    "dexId": 1116,
     "speciesId": "TAPUFINI",
     "formNumber": null,
     "name": "Tapu Fini",
@@ -11191,7 +11161,7 @@
   },
   {
     "id": "COSMOG",
-    "dexId": 1120,
+    "dexId": 1117,
     "speciesId": "COSMOG",
     "formNumber": null,
     "name": "Cosmog",
@@ -11201,7 +11171,7 @@
   },
   {
     "id": "COSMOEM",
-    "dexId": 1121,
+    "dexId": 1118,
     "speciesId": "COSMOEM",
     "formNumber": null,
     "name": "Cosmoem",
@@ -11211,7 +11181,7 @@
   },
   {
     "id": "SOLGALEO",
-    "dexId": 1122,
+    "dexId": 1119,
     "speciesId": "SOLGALEO",
     "formNumber": null,
     "name": "Solgaleo",
@@ -11221,7 +11191,7 @@
   },
   {
     "id": "LUNALA",
-    "dexId": 1123,
+    "dexId": 1120,
     "speciesId": "LUNALA",
     "formNumber": null,
     "name": "Lunala",
@@ -11231,7 +11201,7 @@
   },
   {
     "id": "NIHILEGO",
-    "dexId": 1124,
+    "dexId": 1121,
     "speciesId": "NIHILEGO",
     "formNumber": null,
     "name": "Nihilego",
@@ -11241,7 +11211,7 @@
   },
   {
     "id": "BUZZWOLE",
-    "dexId": 1125,
+    "dexId": 1122,
     "speciesId": "BUZZWOLE",
     "formNumber": null,
     "name": "Buzzwole",
@@ -11251,7 +11221,7 @@
   },
   {
     "id": "PHEROMOSA",
-    "dexId": 1126,
+    "dexId": 1123,
     "speciesId": "PHEROMOSA",
     "formNumber": null,
     "name": "Pheromosa",
@@ -11261,7 +11231,7 @@
   },
   {
     "id": "XURKITREE",
-    "dexId": 1127,
+    "dexId": 1124,
     "speciesId": "XURKITREE",
     "formNumber": null,
     "name": "Xurkitree",
@@ -11271,7 +11241,7 @@
   },
   {
     "id": "CELESTEELA",
-    "dexId": 1128,
+    "dexId": 1125,
     "speciesId": "CELESTEELA",
     "formNumber": null,
     "name": "Celesteela",
@@ -11281,7 +11251,7 @@
   },
   {
     "id": "KARTANA",
-    "dexId": 1129,
+    "dexId": 1126,
     "speciesId": "KARTANA",
     "formNumber": null,
     "name": "Kartana",
@@ -11291,7 +11261,7 @@
   },
   {
     "id": "GUZZLORD",
-    "dexId": 1130,
+    "dexId": 1127,
     "speciesId": "GUZZLORD",
     "formNumber": null,
     "name": "Guzzlord",
@@ -11301,7 +11271,7 @@
   },
   {
     "id": "NECROZMA",
-    "dexId": 1131,
+    "dexId": 1128,
     "speciesId": "NECROZMA",
     "formNumber": null,
     "name": "Necrozma",
@@ -11311,7 +11281,7 @@
   },
   {
     "id": "NECROZMA_1",
-    "dexId": 1132,
+    "dexId": 1129,
     "speciesId": "NECROZMA",
     "formNumber": "1",
     "name": "Necrozma Dusk Mane",
@@ -11321,7 +11291,7 @@
   },
   {
     "id": "NECROZMA_2",
-    "dexId": 1133,
+    "dexId": 1130,
     "speciesId": "NECROZMA",
     "formNumber": "2",
     "name": "Necrozma Dawn Wings",
@@ -11331,7 +11301,7 @@
   },
   {
     "id": "NECROZMA_3",
-    "dexId": 1134,
+    "dexId": 1131,
     "speciesId": "NECROZMA",
     "formNumber": "3",
     "name": "Ultra Necrozma",
@@ -11340,18 +11310,8 @@
     "shinySprite": "images/sprites%20shiny/NECROZMA_3.png"
   },
   {
-    "id": "NECROZMA_4",
-    "dexId": 1135,
-    "speciesId": "NECROZMA",
-    "formNumber": "4",
-    "name": "Necrozma Form 4",
-    "sortGroup": "NECROZMA",
-    "sprite": "images/sprites/NECROZMA_4.png",
-    "shinySprite": "images/sprites%20shiny/NECROZMA_4.png"
-  },
-  {
     "id": "MAGEARNA",
-    "dexId": 1136,
+    "dexId": 1132,
     "speciesId": "MAGEARNA",
     "formNumber": null,
     "name": "Magearna",
@@ -11361,7 +11321,7 @@
   },
   {
     "id": "MAGEARNA_1",
-    "dexId": 1137,
+    "dexId": 1133,
     "speciesId": "MAGEARNA",
     "formNumber": "1",
     "name": "Magearna Original Color",
@@ -11371,7 +11331,7 @@
   },
   {
     "id": "MAGEARNA_2",
-    "dexId": 1138,
+    "dexId": 1134,
     "speciesId": "MAGEARNA",
     "formNumber": "2",
     "name": "Mega Magearna",
@@ -11381,7 +11341,7 @@
   },
   {
     "id": "MAGEARNA_3",
-    "dexId": 1139,
+    "dexId": 1135,
     "speciesId": "MAGEARNA",
     "formNumber": "3",
     "name": "Mega Magearna (Original Color)",
@@ -11391,7 +11351,7 @@
   },
   {
     "id": "MARSHADOW",
-    "dexId": 1140,
+    "dexId": 1136,
     "speciesId": "MARSHADOW",
     "formNumber": null,
     "name": "Marshadow",
@@ -11401,7 +11361,7 @@
   },
   {
     "id": "POIPOLE",
-    "dexId": 1141,
+    "dexId": 1137,
     "speciesId": "POIPOLE",
     "formNumber": null,
     "name": "Poipole",
@@ -11411,7 +11371,7 @@
   },
   {
     "id": "NAGANADEL",
-    "dexId": 1142,
+    "dexId": 1138,
     "speciesId": "NAGANADEL",
     "formNumber": null,
     "name": "Naganadel",
@@ -11421,7 +11381,7 @@
   },
   {
     "id": "STAKATAKA",
-    "dexId": 1143,
+    "dexId": 1139,
     "speciesId": "STAKATAKA",
     "formNumber": null,
     "name": "Stakataka",
@@ -11431,7 +11391,7 @@
   },
   {
     "id": "BLACEPHALON",
-    "dexId": 1144,
+    "dexId": 1140,
     "speciesId": "BLACEPHALON",
     "formNumber": null,
     "name": "Blacephalon",
@@ -11441,7 +11401,7 @@
   },
   {
     "id": "ZERAORA",
-    "dexId": 1145,
+    "dexId": 1141,
     "speciesId": "ZERAORA",
     "formNumber": null,
     "name": "Zeraora",
@@ -11451,7 +11411,7 @@
   },
   {
     "id": "ZERAORA_1",
-    "dexId": 1146,
+    "dexId": 1142,
     "speciesId": "ZERAORA",
     "formNumber": "1",
     "name": "Mega Zeraora",
@@ -11461,7 +11421,7 @@
   },
   {
     "id": "MELTAN",
-    "dexId": 1147,
+    "dexId": 1143,
     "speciesId": "MELTAN",
     "formNumber": null,
     "name": "Meltan",
@@ -11471,7 +11431,7 @@
   },
   {
     "id": "MELMETAL",
-    "dexId": 1148,
+    "dexId": 1144,
     "speciesId": "MELMETAL",
     "formNumber": null,
     "name": "Melmetal",
@@ -11481,7 +11441,7 @@
   },
   {
     "id": "MELMETAL_G",
-    "dexId": 1149,
+    "dexId": 1145,
     "speciesId": "MELMETAL",
     "formNumber": "G",
     "name": "Melmetal Gigantamax",
@@ -11491,7 +11451,7 @@
   },
   {
     "id": "GROOKEY",
-    "dexId": 1150,
+    "dexId": 1146,
     "speciesId": "GROOKEY",
     "formNumber": null,
     "name": "Grookey",
@@ -11501,7 +11461,7 @@
   },
   {
     "id": "THWACKEY",
-    "dexId": 1151,
+    "dexId": 1147,
     "speciesId": "THWACKEY",
     "formNumber": null,
     "name": "Thwackey",
@@ -11511,7 +11471,7 @@
   },
   {
     "id": "RILLABOOM",
-    "dexId": 1152,
+    "dexId": 1148,
     "speciesId": "RILLABOOM",
     "formNumber": null,
     "name": "Rillaboom",
@@ -11521,7 +11481,7 @@
   },
   {
     "id": "RILLABOOM_G",
-    "dexId": 1153,
+    "dexId": 1149,
     "speciesId": "RILLABOOM",
     "formNumber": "G",
     "name": "Rillaboom Gigantamax",
@@ -11531,7 +11491,7 @@
   },
   {
     "id": "SCORBUNNY",
-    "dexId": 1154,
+    "dexId": 1150,
     "speciesId": "SCORBUNNY",
     "formNumber": null,
     "name": "Scorbunny",
@@ -11541,7 +11501,7 @@
   },
   {
     "id": "RABOOT",
-    "dexId": 1155,
+    "dexId": 1151,
     "speciesId": "RABOOT",
     "formNumber": null,
     "name": "Raboot",
@@ -11551,7 +11511,7 @@
   },
   {
     "id": "CINDERACE",
-    "dexId": 1156,
+    "dexId": 1152,
     "speciesId": "CINDERACE",
     "formNumber": null,
     "name": "Cinderace",
@@ -11561,7 +11521,7 @@
   },
   {
     "id": "CINDERACE_G",
-    "dexId": 1157,
+    "dexId": 1153,
     "speciesId": "CINDERACE",
     "formNumber": "G",
     "name": "Cinderace Gigantamax",
@@ -11571,7 +11531,7 @@
   },
   {
     "id": "SOBBLE",
-    "dexId": 1158,
+    "dexId": 1154,
     "speciesId": "SOBBLE",
     "formNumber": null,
     "name": "Sobble",
@@ -11581,7 +11541,7 @@
   },
   {
     "id": "DRIZZILE",
-    "dexId": 1159,
+    "dexId": 1155,
     "speciesId": "DRIZZILE",
     "formNumber": null,
     "name": "Drizzile",
@@ -11591,7 +11551,7 @@
   },
   {
     "id": "INTELEON",
-    "dexId": 1160,
+    "dexId": 1156,
     "speciesId": "INTELEON",
     "formNumber": null,
     "name": "Inteleon",
@@ -11601,7 +11561,7 @@
   },
   {
     "id": "INTELEON_G",
-    "dexId": 1161,
+    "dexId": 1157,
     "speciesId": "INTELEON",
     "formNumber": "G",
     "name": "Inteleon Gigantamax",
@@ -11611,7 +11571,7 @@
   },
   {
     "id": "SKWOVET",
-    "dexId": 1162,
+    "dexId": 1158,
     "speciesId": "SKWOVET",
     "formNumber": null,
     "name": "Skwovet",
@@ -11621,7 +11581,7 @@
   },
   {
     "id": "GREEDENT",
-    "dexId": 1163,
+    "dexId": 1159,
     "speciesId": "GREEDENT",
     "formNumber": null,
     "name": "Greedent",
@@ -11631,7 +11591,7 @@
   },
   {
     "id": "ROOKIDEE",
-    "dexId": 1164,
+    "dexId": 1160,
     "speciesId": "ROOKIDEE",
     "formNumber": null,
     "name": "Rookidee",
@@ -11641,7 +11601,7 @@
   },
   {
     "id": "CORVISQUIRE",
-    "dexId": 1165,
+    "dexId": 1161,
     "speciesId": "CORVISQUIRE",
     "formNumber": null,
     "name": "Corvisquire",
@@ -11651,7 +11611,7 @@
   },
   {
     "id": "CORVIKNIGHT",
-    "dexId": 1166,
+    "dexId": 1162,
     "speciesId": "CORVIKNIGHT",
     "formNumber": null,
     "name": "Corviknight",
@@ -11661,7 +11621,7 @@
   },
   {
     "id": "BLIPBUG",
-    "dexId": 1167,
+    "dexId": 1163,
     "speciesId": "BLIPBUG",
     "formNumber": null,
     "name": "Blipbug",
@@ -11671,7 +11631,7 @@
   },
   {
     "id": "DOTTLER",
-    "dexId": 1168,
+    "dexId": 1164,
     "speciesId": "DOTTLER",
     "formNumber": null,
     "name": "Dottler",
@@ -11681,7 +11641,7 @@
   },
   {
     "id": "ORBEETLE",
-    "dexId": 1169,
+    "dexId": 1165,
     "speciesId": "ORBEETLE",
     "formNumber": null,
     "name": "Orbeetle",
@@ -11691,7 +11651,7 @@
   },
   {
     "id": "ORBEETLE_G",
-    "dexId": 1170,
+    "dexId": 1166,
     "speciesId": "ORBEETLE",
     "formNumber": "G",
     "name": "Orbeetle Gigantamax",
@@ -11701,7 +11661,7 @@
   },
   {
     "id": "NICKIT",
-    "dexId": 1171,
+    "dexId": 1167,
     "speciesId": "NICKIT",
     "formNumber": null,
     "name": "Nickit",
@@ -11711,7 +11671,7 @@
   },
   {
     "id": "THIEVUL",
-    "dexId": 1172,
+    "dexId": 1168,
     "speciesId": "THIEVUL",
     "formNumber": null,
     "name": "Thievul",
@@ -11721,7 +11681,7 @@
   },
   {
     "id": "GOSSIFLEUR",
-    "dexId": 1173,
+    "dexId": 1169,
     "speciesId": "GOSSIFLEUR",
     "formNumber": null,
     "name": "Gossifleur",
@@ -11731,7 +11691,7 @@
   },
   {
     "id": "ELDEGOSS",
-    "dexId": 1174,
+    "dexId": 1170,
     "speciesId": "ELDEGOSS",
     "formNumber": null,
     "name": "Eldegoss",
@@ -11741,7 +11701,7 @@
   },
   {
     "id": "WOOLOO",
-    "dexId": 1175,
+    "dexId": 1171,
     "speciesId": "WOOLOO",
     "formNumber": null,
     "name": "Wooloo",
@@ -11751,7 +11711,7 @@
   },
   {
     "id": "DUBWOOL",
-    "dexId": 1176,
+    "dexId": 1172,
     "speciesId": "DUBWOOL",
     "formNumber": null,
     "name": "Dubwool",
@@ -11761,7 +11721,7 @@
   },
   {
     "id": "CHEWTLE",
-    "dexId": 1177,
+    "dexId": 1173,
     "speciesId": "CHEWTLE",
     "formNumber": null,
     "name": "Chewtle",
@@ -11771,7 +11731,7 @@
   },
   {
     "id": "DREDNAW",
-    "dexId": 1178,
+    "dexId": 1174,
     "speciesId": "DREDNAW",
     "formNumber": null,
     "name": "Drednaw",
@@ -11781,7 +11741,7 @@
   },
   {
     "id": "DREDNAW_G",
-    "dexId": 1179,
+    "dexId": 1175,
     "speciesId": "DREDNAW",
     "formNumber": "G",
     "name": "Drednaw Gigantamax",
@@ -11791,7 +11751,7 @@
   },
   {
     "id": "YAMPER",
-    "dexId": 1180,
+    "dexId": 1176,
     "speciesId": "YAMPER",
     "formNumber": null,
     "name": "Yamper",
@@ -11801,7 +11761,7 @@
   },
   {
     "id": "BOLTUND",
-    "dexId": 1181,
+    "dexId": 1177,
     "speciesId": "BOLTUND",
     "formNumber": null,
     "name": "Boltund",
@@ -11811,7 +11771,7 @@
   },
   {
     "id": "ROLYCOLY",
-    "dexId": 1182,
+    "dexId": 1178,
     "speciesId": "ROLYCOLY",
     "formNumber": null,
     "name": "Rolycoly",
@@ -11821,7 +11781,7 @@
   },
   {
     "id": "CARKOL",
-    "dexId": 1183,
+    "dexId": 1179,
     "speciesId": "CARKOL",
     "formNumber": null,
     "name": "Carkol",
@@ -11831,7 +11791,7 @@
   },
   {
     "id": "COALOSSAL",
-    "dexId": 1184,
+    "dexId": 1180,
     "speciesId": "COALOSSAL",
     "formNumber": null,
     "name": "Coalossal",
@@ -11841,7 +11801,7 @@
   },
   {
     "id": "COALOSSAL_G",
-    "dexId": 1185,
+    "dexId": 1181,
     "speciesId": "COALOSSAL",
     "formNumber": "G",
     "name": "Coalossal Gigantamax",
@@ -11851,7 +11811,7 @@
   },
   {
     "id": "APPLIN",
-    "dexId": 1186,
+    "dexId": 1182,
     "speciesId": "APPLIN",
     "formNumber": null,
     "name": "Applin",
@@ -11861,7 +11821,7 @@
   },
   {
     "id": "FLAPPLE",
-    "dexId": 1187,
+    "dexId": 1183,
     "speciesId": "FLAPPLE",
     "formNumber": null,
     "name": "Flapple",
@@ -11871,7 +11831,7 @@
   },
   {
     "id": "FLAPPLE_G",
-    "dexId": 1188,
+    "dexId": 1184,
     "speciesId": "FLAPPLE",
     "formNumber": "G",
     "name": "Flapple Gigantamax",
@@ -11881,7 +11841,7 @@
   },
   {
     "id": "APPLETUN",
-    "dexId": 1189,
+    "dexId": 1185,
     "speciesId": "APPLETUN",
     "formNumber": null,
     "name": "Appletun",
@@ -11891,7 +11851,7 @@
   },
   {
     "id": "APPLETUN_G",
-    "dexId": 1190,
+    "dexId": 1186,
     "speciesId": "APPLETUN",
     "formNumber": "G",
     "name": "Appletun Gigantamax",
@@ -11901,7 +11861,7 @@
   },
   {
     "id": "SILICOBRA",
-    "dexId": 1191,
+    "dexId": 1187,
     "speciesId": "SILICOBRA",
     "formNumber": null,
     "name": "Silicobra",
@@ -11911,7 +11871,7 @@
   },
   {
     "id": "SANDACONDA",
-    "dexId": 1192,
+    "dexId": 1188,
     "speciesId": "SANDACONDA",
     "formNumber": null,
     "name": "Sandaconda",
@@ -11921,7 +11881,7 @@
   },
   {
     "id": "SANDACONDA_G",
-    "dexId": 1193,
+    "dexId": 1189,
     "speciesId": "SANDACONDA",
     "formNumber": "G",
     "name": "Sandaconda Gigantamax",
@@ -11931,7 +11891,7 @@
   },
   {
     "id": "CRAMORANT",
-    "dexId": 1194,
+    "dexId": 1190,
     "speciesId": "CRAMORANT",
     "formNumber": null,
     "name": "Cramorant",
@@ -11941,7 +11901,7 @@
   },
   {
     "id": "CRAMORANT_1",
-    "dexId": 1195,
+    "dexId": 1191,
     "speciesId": "CRAMORANT",
     "formNumber": "1",
     "name": "Cramorant Gulping Form",
@@ -11951,7 +11911,7 @@
   },
   {
     "id": "CRAMORANT_2",
-    "dexId": 1196,
+    "dexId": 1192,
     "speciesId": "CRAMORANT",
     "formNumber": "2",
     "name": "Cramorant Gorging Form",
@@ -11961,7 +11921,7 @@
   },
   {
     "id": "ARROKUDA",
-    "dexId": 1197,
+    "dexId": 1193,
     "speciesId": "ARROKUDA",
     "formNumber": null,
     "name": "Arrokuda",
@@ -11971,7 +11931,7 @@
   },
   {
     "id": "BARRASKEWDA",
-    "dexId": 1198,
+    "dexId": 1194,
     "speciesId": "BARRASKEWDA",
     "formNumber": null,
     "name": "Barraskewda",
@@ -11981,7 +11941,7 @@
   },
   {
     "id": "TOXEL",
-    "dexId": 1199,
+    "dexId": 1195,
     "speciesId": "TOXEL",
     "formNumber": null,
     "name": "Toxel",
@@ -11991,7 +11951,7 @@
   },
   {
     "id": "TOXTRICITY",
-    "dexId": 1200,
+    "dexId": 1196,
     "speciesId": "TOXTRICITY",
     "formNumber": null,
     "name": "Toxtricity",
@@ -12001,7 +11961,7 @@
   },
   {
     "id": "TOXTRICITY_1",
-    "dexId": 1201,
+    "dexId": 1197,
     "speciesId": "TOXTRICITY",
     "formNumber": "1",
     "name": "Toxtricity Low Key Form",
@@ -12011,7 +11971,7 @@
   },
   {
     "id": "TOXTRICITY_G",
-    "dexId": 1202,
+    "dexId": 1198,
     "speciesId": "TOXTRICITY",
     "formNumber": "G",
     "name": "Toxtricity Gigantamax",
@@ -12021,7 +11981,7 @@
   },
   {
     "id": "SIZZLIPEDE",
-    "dexId": 1203,
+    "dexId": 1199,
     "speciesId": "SIZZLIPEDE",
     "formNumber": null,
     "name": "Sizzlipede",
@@ -12031,7 +11991,7 @@
   },
   {
     "id": "CENTISKORCH",
-    "dexId": 1204,
+    "dexId": 1200,
     "speciesId": "CENTISKORCH",
     "formNumber": null,
     "name": "Centiskorch",
@@ -12041,7 +12001,7 @@
   },
   {
     "id": "CENTISKORCH_G",
-    "dexId": 1205,
+    "dexId": 1201,
     "speciesId": "CENTISKORCH",
     "formNumber": "G",
     "name": "Centiskorch Gigantamax",
@@ -12051,7 +12011,7 @@
   },
   {
     "id": "CLOBBOPUS",
-    "dexId": 1206,
+    "dexId": 1202,
     "speciesId": "CLOBBOPUS",
     "formNumber": null,
     "name": "Clobbopus",
@@ -12061,7 +12021,7 @@
   },
   {
     "id": "GRAPPLOCT",
-    "dexId": 1207,
+    "dexId": 1203,
     "speciesId": "GRAPPLOCT",
     "formNumber": null,
     "name": "Grapploct",
@@ -12071,7 +12031,7 @@
   },
   {
     "id": "SINISTEA",
-    "dexId": 1208,
+    "dexId": 1204,
     "speciesId": "SINISTEA",
     "formNumber": null,
     "name": "Sinistea",
@@ -12081,7 +12041,7 @@
   },
   {
     "id": "POLTEAGEIST",
-    "dexId": 1209,
+    "dexId": 1205,
     "speciesId": "POLTEAGEIST",
     "formNumber": null,
     "name": "Polteageist",
@@ -12091,7 +12051,7 @@
   },
   {
     "id": "HATENNA",
-    "dexId": 1210,
+    "dexId": 1206,
     "speciesId": "HATENNA",
     "formNumber": null,
     "name": "Hatenna",
@@ -12101,7 +12061,7 @@
   },
   {
     "id": "HATTREM",
-    "dexId": 1211,
+    "dexId": 1207,
     "speciesId": "HATTREM",
     "formNumber": null,
     "name": "Hattrem",
@@ -12111,7 +12071,7 @@
   },
   {
     "id": "HATTERENE",
-    "dexId": 1212,
+    "dexId": 1208,
     "speciesId": "HATTERENE",
     "formNumber": null,
     "name": "Hatterene",
@@ -12121,7 +12081,7 @@
   },
   {
     "id": "HATTERENE_G",
-    "dexId": 1213,
+    "dexId": 1209,
     "speciesId": "HATTERENE",
     "formNumber": "G",
     "name": "Hatterene Gigantamax",
@@ -12131,7 +12091,7 @@
   },
   {
     "id": "IMPIDIMP",
-    "dexId": 1214,
+    "dexId": 1210,
     "speciesId": "IMPIDIMP",
     "formNumber": null,
     "name": "Impidimp",
@@ -12141,7 +12101,7 @@
   },
   {
     "id": "MORGREM",
-    "dexId": 1215,
+    "dexId": 1211,
     "speciesId": "MORGREM",
     "formNumber": null,
     "name": "Morgrem",
@@ -12151,7 +12111,7 @@
   },
   {
     "id": "GRIMMSNARL",
-    "dexId": 1216,
+    "dexId": 1212,
     "speciesId": "GRIMMSNARL",
     "formNumber": null,
     "name": "Grimmsnarl",
@@ -12161,7 +12121,7 @@
   },
   {
     "id": "GRIMMSNARL_G",
-    "dexId": 1217,
+    "dexId": 1213,
     "speciesId": "GRIMMSNARL",
     "formNumber": "G",
     "name": "Grimmsnarl Gigantamax",
@@ -12171,7 +12131,7 @@
   },
   {
     "id": "OBSTAGOON",
-    "dexId": 1218,
+    "dexId": 1214,
     "speciesId": "OBSTAGOON",
     "formNumber": null,
     "name": "Obstagoon",
@@ -12181,7 +12141,7 @@
   },
   {
     "id": "PERRSERKER",
-    "dexId": 1219,
+    "dexId": 1215,
     "speciesId": "PERRSERKER",
     "formNumber": null,
     "name": "Perrserker",
@@ -12191,7 +12151,7 @@
   },
   {
     "id": "CURSOLA",
-    "dexId": 1220,
+    "dexId": 1216,
     "speciesId": "CURSOLA",
     "formNumber": null,
     "name": "Cursola",
@@ -12201,7 +12161,7 @@
   },
   {
     "id": "SIRFETCHD",
-    "dexId": 1221,
+    "dexId": 1217,
     "speciesId": "SIRFETCHD",
     "formNumber": null,
     "name": "Sirfetch'd",
@@ -12211,7 +12171,7 @@
   },
   {
     "id": "MRRIME",
-    "dexId": 1222,
+    "dexId": 1218,
     "speciesId": "MRRIME",
     "formNumber": null,
     "name": "Mr. Rime",
@@ -12221,7 +12181,7 @@
   },
   {
     "id": "RUNERIGUS",
-    "dexId": 1223,
+    "dexId": 1219,
     "speciesId": "RUNERIGUS",
     "formNumber": null,
     "name": "Runerigus",
@@ -12231,7 +12191,7 @@
   },
   {
     "id": "MILCERY",
-    "dexId": 1224,
+    "dexId": 1220,
     "speciesId": "MILCERY",
     "formNumber": null,
     "name": "Milcery",
@@ -12241,7 +12201,7 @@
   },
   {
     "id": "ALCREMIE",
-    "dexId": 1225,
+    "dexId": 1221,
     "speciesId": "ALCREMIE",
     "formNumber": null,
     "name": "Alcremie",
@@ -12251,7 +12211,7 @@
   },
   {
     "id": "ALCREMIE_7",
-    "dexId": 1226,
+    "dexId": 1222,
     "speciesId": "ALCREMIE",
     "formNumber": "7",
     "name": "Alcremie Ruby Cream",
@@ -12261,7 +12221,7 @@
   },
   {
     "id": "ALCREMIE_8",
-    "dexId": 1227,
+    "dexId": 1223,
     "speciesId": "ALCREMIE",
     "formNumber": "8",
     "name": "Alcremie Form 8",
@@ -12271,7 +12231,7 @@
   },
   {
     "id": "ALCREMIE_9",
-    "dexId": 1228,
+    "dexId": 1224,
     "speciesId": "ALCREMIE",
     "formNumber": "9",
     "name": "Alcremie Form 9",
@@ -12281,7 +12241,7 @@
   },
   {
     "id": "ALCREMIE_10",
-    "dexId": 1229,
+    "dexId": 1225,
     "speciesId": "ALCREMIE",
     "formNumber": "10",
     "name": "Alcremie Form 10",
@@ -12291,7 +12251,7 @@
   },
   {
     "id": "ALCREMIE_11",
-    "dexId": 1230,
+    "dexId": 1226,
     "speciesId": "ALCREMIE",
     "formNumber": "11",
     "name": "Alcremie Form 11",
@@ -12301,7 +12261,7 @@
   },
   {
     "id": "ALCREMIE_12",
-    "dexId": 1231,
+    "dexId": 1227,
     "speciesId": "ALCREMIE",
     "formNumber": "12",
     "name": "Alcremie Form 12",
@@ -12311,7 +12271,7 @@
   },
   {
     "id": "ALCREMIE_13",
-    "dexId": 1232,
+    "dexId": 1228,
     "speciesId": "ALCREMIE",
     "formNumber": "13",
     "name": "Alcremie Form 13",
@@ -12321,7 +12281,7 @@
   },
   {
     "id": "ALCREMIE_14",
-    "dexId": 1233,
+    "dexId": 1229,
     "speciesId": "ALCREMIE",
     "formNumber": "14",
     "name": "Alcremie Matcha Cream",
@@ -12331,7 +12291,7 @@
   },
   {
     "id": "ALCREMIE_15",
-    "dexId": 1234,
+    "dexId": 1230,
     "speciesId": "ALCREMIE",
     "formNumber": "15",
     "name": "Alcremie Form 15",
@@ -12341,7 +12301,7 @@
   },
   {
     "id": "ALCREMIE_16",
-    "dexId": 1235,
+    "dexId": 1231,
     "speciesId": "ALCREMIE",
     "formNumber": "16",
     "name": "Alcremie Form 16",
@@ -12351,7 +12311,7 @@
   },
   {
     "id": "ALCREMIE_17",
-    "dexId": 1236,
+    "dexId": 1232,
     "speciesId": "ALCREMIE",
     "formNumber": "17",
     "name": "Alcremie Form 17",
@@ -12361,7 +12321,7 @@
   },
   {
     "id": "ALCREMIE_18",
-    "dexId": 1237,
+    "dexId": 1233,
     "speciesId": "ALCREMIE",
     "formNumber": "18",
     "name": "Alcremie Form 18",
@@ -12371,7 +12331,7 @@
   },
   {
     "id": "ALCREMIE_19",
-    "dexId": 1238,
+    "dexId": 1234,
     "speciesId": "ALCREMIE",
     "formNumber": "19",
     "name": "Alcremie Form 19",
@@ -12381,7 +12341,7 @@
   },
   {
     "id": "ALCREMIE_20",
-    "dexId": 1239,
+    "dexId": 1235,
     "speciesId": "ALCREMIE",
     "formNumber": "20",
     "name": "Alcremie Form 20",
@@ -12391,7 +12351,7 @@
   },
   {
     "id": "ALCREMIE_21",
-    "dexId": 1240,
+    "dexId": 1236,
     "speciesId": "ALCREMIE",
     "formNumber": "21",
     "name": "Alcremie Mint Cream",
@@ -12401,7 +12361,7 @@
   },
   {
     "id": "ALCREMIE_22",
-    "dexId": 1241,
+    "dexId": 1237,
     "speciesId": "ALCREMIE",
     "formNumber": "22",
     "name": "Alcremie Form 22",
@@ -12411,7 +12371,7 @@
   },
   {
     "id": "ALCREMIE_23",
-    "dexId": 1242,
+    "dexId": 1238,
     "speciesId": "ALCREMIE",
     "formNumber": "23",
     "name": "Alcremie Form 23",
@@ -12421,7 +12381,7 @@
   },
   {
     "id": "ALCREMIE_24",
-    "dexId": 1243,
+    "dexId": 1239,
     "speciesId": "ALCREMIE",
     "formNumber": "24",
     "name": "Alcremie Form 24",
@@ -12431,7 +12391,7 @@
   },
   {
     "id": "ALCREMIE_25",
-    "dexId": 1244,
+    "dexId": 1240,
     "speciesId": "ALCREMIE",
     "formNumber": "25",
     "name": "Alcremie Form 25",
@@ -12441,7 +12401,7 @@
   },
   {
     "id": "ALCREMIE_26",
-    "dexId": 1245,
+    "dexId": 1241,
     "speciesId": "ALCREMIE",
     "formNumber": "26",
     "name": "Alcremie Form 26",
@@ -12451,7 +12411,7 @@
   },
   {
     "id": "ALCREMIE_27",
-    "dexId": 1246,
+    "dexId": 1242,
     "speciesId": "ALCREMIE",
     "formNumber": "27",
     "name": "Alcremie Form 27",
@@ -12461,7 +12421,7 @@
   },
   {
     "id": "ALCREMIE_28",
-    "dexId": 1247,
+    "dexId": 1243,
     "speciesId": "ALCREMIE",
     "formNumber": "28",
     "name": "Alcremie Lemon Cream",
@@ -12471,7 +12431,7 @@
   },
   {
     "id": "ALCREMIE_29",
-    "dexId": 1248,
+    "dexId": 1244,
     "speciesId": "ALCREMIE",
     "formNumber": "29",
     "name": "Alcremie Form 29",
@@ -12481,7 +12441,7 @@
   },
   {
     "id": "ALCREMIE_30",
-    "dexId": 1249,
+    "dexId": 1245,
     "speciesId": "ALCREMIE",
     "formNumber": "30",
     "name": "Alcremie Form 30",
@@ -12491,7 +12451,7 @@
   },
   {
     "id": "ALCREMIE_31",
-    "dexId": 1250,
+    "dexId": 1246,
     "speciesId": "ALCREMIE",
     "formNumber": "31",
     "name": "Alcremie Form 31",
@@ -12501,7 +12461,7 @@
   },
   {
     "id": "ALCREMIE_32",
-    "dexId": 1251,
+    "dexId": 1247,
     "speciesId": "ALCREMIE",
     "formNumber": "32",
     "name": "Alcremie Form 32",
@@ -12511,7 +12471,7 @@
   },
   {
     "id": "ALCREMIE_33",
-    "dexId": 1252,
+    "dexId": 1248,
     "speciesId": "ALCREMIE",
     "formNumber": "33",
     "name": "Alcremie Form 33",
@@ -12521,7 +12481,7 @@
   },
   {
     "id": "ALCREMIE_34",
-    "dexId": 1253,
+    "dexId": 1249,
     "speciesId": "ALCREMIE",
     "formNumber": "34",
     "name": "Alcremie Form 34",
@@ -12531,7 +12491,7 @@
   },
   {
     "id": "ALCREMIE_35",
-    "dexId": 1254,
+    "dexId": 1250,
     "speciesId": "ALCREMIE",
     "formNumber": "35",
     "name": "Alcremie Salted Cream",
@@ -12541,7 +12501,7 @@
   },
   {
     "id": "ALCREMIE_36",
-    "dexId": 1255,
+    "dexId": 1251,
     "speciesId": "ALCREMIE",
     "formNumber": "36",
     "name": "Alcremie Form 36",
@@ -12551,7 +12511,7 @@
   },
   {
     "id": "ALCREMIE_37",
-    "dexId": 1256,
+    "dexId": 1252,
     "speciesId": "ALCREMIE",
     "formNumber": "37",
     "name": "Alcremie Form 37",
@@ -12561,7 +12521,7 @@
   },
   {
     "id": "ALCREMIE_38",
-    "dexId": 1257,
+    "dexId": 1253,
     "speciesId": "ALCREMIE",
     "formNumber": "38",
     "name": "Alcremie Form 38",
@@ -12571,7 +12531,7 @@
   },
   {
     "id": "ALCREMIE_39",
-    "dexId": 1258,
+    "dexId": 1254,
     "speciesId": "ALCREMIE",
     "formNumber": "39",
     "name": "Alcremie Form 39",
@@ -12581,7 +12541,7 @@
   },
   {
     "id": "ALCREMIE_40",
-    "dexId": 1259,
+    "dexId": 1255,
     "speciesId": "ALCREMIE",
     "formNumber": "40",
     "name": "Alcremie Form 40",
@@ -12591,7 +12551,7 @@
   },
   {
     "id": "ALCREMIE_41",
-    "dexId": 1260,
+    "dexId": 1256,
     "speciesId": "ALCREMIE",
     "formNumber": "41",
     "name": "Alcremie Form 41",
@@ -12601,7 +12561,7 @@
   },
   {
     "id": "ALCREMIE_42",
-    "dexId": 1261,
+    "dexId": 1257,
     "speciesId": "ALCREMIE",
     "formNumber": "42",
     "name": "Alcremie Ruby Swirl",
@@ -12611,7 +12571,7 @@
   },
   {
     "id": "ALCREMIE_43",
-    "dexId": 1262,
+    "dexId": 1258,
     "speciesId": "ALCREMIE",
     "formNumber": "43",
     "name": "Alcremie Form 43",
@@ -12621,7 +12581,7 @@
   },
   {
     "id": "ALCREMIE_44",
-    "dexId": 1263,
+    "dexId": 1259,
     "speciesId": "ALCREMIE",
     "formNumber": "44",
     "name": "Alcremie Form 44",
@@ -12631,7 +12591,7 @@
   },
   {
     "id": "ALCREMIE_45",
-    "dexId": 1264,
+    "dexId": 1260,
     "speciesId": "ALCREMIE",
     "formNumber": "45",
     "name": "Alcremie Form 45",
@@ -12641,7 +12601,7 @@
   },
   {
     "id": "ALCREMIE_46",
-    "dexId": 1265,
+    "dexId": 1261,
     "speciesId": "ALCREMIE",
     "formNumber": "46",
     "name": "Alcremie Form 46",
@@ -12651,7 +12611,7 @@
   },
   {
     "id": "ALCREMIE_47",
-    "dexId": 1266,
+    "dexId": 1262,
     "speciesId": "ALCREMIE",
     "formNumber": "47",
     "name": "Alcremie Form 47",
@@ -12661,7 +12621,7 @@
   },
   {
     "id": "ALCREMIE_48",
-    "dexId": 1267,
+    "dexId": 1263,
     "speciesId": "ALCREMIE",
     "formNumber": "48",
     "name": "Alcremie Form 48",
@@ -12671,7 +12631,7 @@
   },
   {
     "id": "ALCREMIE_49",
-    "dexId": 1268,
+    "dexId": 1264,
     "speciesId": "ALCREMIE",
     "formNumber": "49",
     "name": "Alcremie Caramel Swirl",
@@ -12681,7 +12641,7 @@
   },
   {
     "id": "ALCREMIE_50",
-    "dexId": 1269,
+    "dexId": 1265,
     "speciesId": "ALCREMIE",
     "formNumber": "50",
     "name": "Alcremie Form 50",
@@ -12691,7 +12651,7 @@
   },
   {
     "id": "ALCREMIE_51",
-    "dexId": 1270,
+    "dexId": 1266,
     "speciesId": "ALCREMIE",
     "formNumber": "51",
     "name": "Alcremie Form 51",
@@ -12701,7 +12661,7 @@
   },
   {
     "id": "ALCREMIE_52",
-    "dexId": 1271,
+    "dexId": 1267,
     "speciesId": "ALCREMIE",
     "formNumber": "52",
     "name": "Alcremie Form 52",
@@ -12711,7 +12671,7 @@
   },
   {
     "id": "ALCREMIE_53",
-    "dexId": 1272,
+    "dexId": 1268,
     "speciesId": "ALCREMIE",
     "formNumber": "53",
     "name": "Alcremie Form 53",
@@ -12721,7 +12681,7 @@
   },
   {
     "id": "ALCREMIE_54",
-    "dexId": 1273,
+    "dexId": 1269,
     "speciesId": "ALCREMIE",
     "formNumber": "54",
     "name": "Alcremie Form 54",
@@ -12731,7 +12691,7 @@
   },
   {
     "id": "ALCREMIE_55",
-    "dexId": 1274,
+    "dexId": 1270,
     "speciesId": "ALCREMIE",
     "formNumber": "55",
     "name": "Alcremie Form 55",
@@ -12741,7 +12701,7 @@
   },
   {
     "id": "ALCREMIE_56",
-    "dexId": 1275,
+    "dexId": 1271,
     "speciesId": "ALCREMIE",
     "formNumber": "56",
     "name": "Alcremie Rainbow Swirl",
@@ -12751,7 +12711,7 @@
   },
   {
     "id": "ALCREMIE_57",
-    "dexId": 1276,
+    "dexId": 1272,
     "speciesId": "ALCREMIE",
     "formNumber": "57",
     "name": "Alcremie Form 57",
@@ -12761,7 +12721,7 @@
   },
   {
     "id": "ALCREMIE_58",
-    "dexId": 1277,
+    "dexId": 1273,
     "speciesId": "ALCREMIE",
     "formNumber": "58",
     "name": "Alcremie Form 58",
@@ -12771,7 +12731,7 @@
   },
   {
     "id": "ALCREMIE_59",
-    "dexId": 1278,
+    "dexId": 1274,
     "speciesId": "ALCREMIE",
     "formNumber": "59",
     "name": "Alcremie Form 59",
@@ -12781,7 +12741,7 @@
   },
   {
     "id": "ALCREMIE_60",
-    "dexId": 1279,
+    "dexId": 1275,
     "speciesId": "ALCREMIE",
     "formNumber": "60",
     "name": "Alcremie Form 60",
@@ -12791,7 +12751,7 @@
   },
   {
     "id": "ALCREMIE_61",
-    "dexId": 1280,
+    "dexId": 1276,
     "speciesId": "ALCREMIE",
     "formNumber": "61",
     "name": "Alcremie Form 61",
@@ -12801,7 +12761,7 @@
   },
   {
     "id": "ALCREMIE_62",
-    "dexId": 1281,
+    "dexId": 1277,
     "speciesId": "ALCREMIE",
     "formNumber": "62",
     "name": "Alcremie Form 62",
@@ -12811,7 +12771,7 @@
   },
   {
     "id": "ALCREMIE_G",
-    "dexId": 1282,
+    "dexId": 1278,
     "speciesId": "ALCREMIE",
     "formNumber": "G",
     "name": "Alcremie Gigantamax",
@@ -12821,7 +12781,7 @@
   },
   {
     "id": "FALINKS",
-    "dexId": 1283,
+    "dexId": 1279,
     "speciesId": "FALINKS",
     "formNumber": null,
     "name": "Falinks",
@@ -12831,7 +12791,7 @@
   },
   {
     "id": "FALINKS_1",
-    "dexId": 1284,
+    "dexId": 1280,
     "speciesId": "FALINKS",
     "formNumber": "1",
     "name": "Mega Falinks",
@@ -12841,7 +12801,7 @@
   },
   {
     "id": "PINCURCHIN",
-    "dexId": 1285,
+    "dexId": 1281,
     "speciesId": "PINCURCHIN",
     "formNumber": null,
     "name": "Pincurchin",
@@ -12851,7 +12811,7 @@
   },
   {
     "id": "SNOM",
-    "dexId": 1286,
+    "dexId": 1282,
     "speciesId": "SNOM",
     "formNumber": null,
     "name": "Snom",
@@ -12861,7 +12821,7 @@
   },
   {
     "id": "FROSMOTH",
-    "dexId": 1287,
+    "dexId": 1283,
     "speciesId": "FROSMOTH",
     "formNumber": null,
     "name": "Frosmoth",
@@ -12871,7 +12831,7 @@
   },
   {
     "id": "STONJOURNER",
-    "dexId": 1288,
+    "dexId": 1284,
     "speciesId": "STONJOURNER",
     "formNumber": null,
     "name": "Stonjourner",
@@ -12881,7 +12841,7 @@
   },
   {
     "id": "EISCUE",
-    "dexId": 1289,
+    "dexId": 1285,
     "speciesId": "EISCUE",
     "formNumber": null,
     "name": "Eiscue",
@@ -12891,7 +12851,7 @@
   },
   {
     "id": "EISCUE_1",
-    "dexId": 1290,
+    "dexId": 1286,
     "speciesId": "EISCUE",
     "formNumber": "1",
     "name": "Eiscue Noice Face",
@@ -12901,7 +12861,7 @@
   },
   {
     "id": "INDEEDEE",
-    "dexId": 1291,
+    "dexId": 1287,
     "speciesId": "INDEEDEE",
     "formNumber": null,
     "name": "Indeedee",
@@ -12911,7 +12871,7 @@
   },
   {
     "id": "INDEEDEE_1",
-    "dexId": 1292,
+    "dexId": 1288,
     "speciesId": "INDEEDEE",
     "formNumber": "1",
     "name": "Indeedee Female",
@@ -12921,7 +12881,7 @@
   },
   {
     "id": "MORPEKO",
-    "dexId": 1293,
+    "dexId": 1289,
     "speciesId": "MORPEKO",
     "formNumber": null,
     "name": "Morpeko",
@@ -12931,7 +12891,7 @@
   },
   {
     "id": "MORPEKO_1",
-    "dexId": 1294,
+    "dexId": 1290,
     "speciesId": "MORPEKO",
     "formNumber": "1",
     "name": "Morpeko Hangry Mode",
@@ -12941,7 +12901,7 @@
   },
   {
     "id": "CUFANT",
-    "dexId": 1295,
+    "dexId": 1291,
     "speciesId": "CUFANT",
     "formNumber": null,
     "name": "Cufant",
@@ -12951,7 +12911,7 @@
   },
   {
     "id": "COPPERAJAH",
-    "dexId": 1296,
+    "dexId": 1292,
     "speciesId": "COPPERAJAH",
     "formNumber": null,
     "name": "Copperajah",
@@ -12961,7 +12921,7 @@
   },
   {
     "id": "COPPERAJAH_G",
-    "dexId": 1297,
+    "dexId": 1293,
     "speciesId": "COPPERAJAH",
     "formNumber": "G",
     "name": "Copperajah Gigantamax",
@@ -12971,7 +12931,7 @@
   },
   {
     "id": "DRACOZOLT",
-    "dexId": 1298,
+    "dexId": 1294,
     "speciesId": "DRACOZOLT",
     "formNumber": null,
     "name": "Dracozolt",
@@ -12981,7 +12941,7 @@
   },
   {
     "id": "ARCTOZOLT",
-    "dexId": 1299,
+    "dexId": 1295,
     "speciesId": "ARCTOZOLT",
     "formNumber": null,
     "name": "Arctozolt",
@@ -12991,7 +12951,7 @@
   },
   {
     "id": "DRACOVISH",
-    "dexId": 1300,
+    "dexId": 1296,
     "speciesId": "DRACOVISH",
     "formNumber": null,
     "name": "Dracovish",
@@ -13001,7 +12961,7 @@
   },
   {
     "id": "ARCTOVISH",
-    "dexId": 1301,
+    "dexId": 1297,
     "speciesId": "ARCTOVISH",
     "formNumber": null,
     "name": "Arctovish",
@@ -13011,7 +12971,7 @@
   },
   {
     "id": "DURALUDON",
-    "dexId": 1302,
+    "dexId": 1298,
     "speciesId": "DURALUDON",
     "formNumber": null,
     "name": "Duraludon",
@@ -13021,7 +12981,7 @@
   },
   {
     "id": "DURALUDON_G",
-    "dexId": 1303,
+    "dexId": 1299,
     "speciesId": "DURALUDON",
     "formNumber": "G",
     "name": "Duraludon Gigantamax",
@@ -13031,7 +12991,7 @@
   },
   {
     "id": "DREEPY",
-    "dexId": 1304,
+    "dexId": 1300,
     "speciesId": "DREEPY",
     "formNumber": null,
     "name": "Dreepy",
@@ -13041,7 +13001,7 @@
   },
   {
     "id": "DRAKLOAK",
-    "dexId": 1305,
+    "dexId": 1301,
     "speciesId": "DRAKLOAK",
     "formNumber": null,
     "name": "Drakloak",
@@ -13051,7 +13011,7 @@
   },
   {
     "id": "DRAGAPULT",
-    "dexId": 1306,
+    "dexId": 1302,
     "speciesId": "DRAGAPULT",
     "formNumber": null,
     "name": "Dragapult",
@@ -13061,7 +13021,7 @@
   },
   {
     "id": "ZACIAN",
-    "dexId": 1307,
+    "dexId": 1303,
     "speciesId": "ZACIAN",
     "formNumber": null,
     "name": "Zacian",
@@ -13071,7 +13031,7 @@
   },
   {
     "id": "ZACIAN_1",
-    "dexId": 1308,
+    "dexId": 1304,
     "speciesId": "ZACIAN",
     "formNumber": "1",
     "name": "Zacian Crowned Sword",
@@ -13081,7 +13041,7 @@
   },
   {
     "id": "ZAMAZENTA",
-    "dexId": 1309,
+    "dexId": 1305,
     "speciesId": "ZAMAZENTA",
     "formNumber": null,
     "name": "Zamazenta",
@@ -13091,7 +13051,7 @@
   },
   {
     "id": "ZAMAZENTA_1",
-    "dexId": 1310,
+    "dexId": 1306,
     "speciesId": "ZAMAZENTA",
     "formNumber": "1",
     "name": "Zamazenta Crowned Shield",
@@ -13101,7 +13061,7 @@
   },
   {
     "id": "ETERNATUS",
-    "dexId": 1311,
+    "dexId": 1307,
     "speciesId": "ETERNATUS",
     "formNumber": null,
     "name": "Eternatus",
@@ -13111,7 +13071,7 @@
   },
   {
     "id": "ETERNATUS_G",
-    "dexId": 1312,
+    "dexId": 1308,
     "speciesId": "ETERNATUS",
     "formNumber": "G",
     "name": "Eternatus Eternamax",
@@ -13121,7 +13081,7 @@
   },
   {
     "id": "KUBFU",
-    "dexId": 1313,
+    "dexId": 1309,
     "speciesId": "KUBFU",
     "formNumber": null,
     "name": "Kubfu",
@@ -13131,7 +13091,7 @@
   },
   {
     "id": "URSHIFU",
-    "dexId": 1314,
+    "dexId": 1310,
     "speciesId": "URSHIFU",
     "formNumber": null,
     "name": "Urshifu",
@@ -13141,7 +13101,7 @@
   },
   {
     "id": "URSHIFU_1",
-    "dexId": 1315,
+    "dexId": 1311,
     "speciesId": "URSHIFU",
     "formNumber": "1",
     "name": "Urshifu Rapid Strike Style",
@@ -13151,7 +13111,7 @@
   },
   {
     "id": "URSHIFU_G",
-    "dexId": 1316,
+    "dexId": 1312,
     "speciesId": "URSHIFU",
     "formNumber": "G",
     "name": "Urshifu Gigantamax",
@@ -13161,7 +13121,7 @@
   },
   {
     "id": "URSHIFU_G_1",
-    "dexId": 1317,
+    "dexId": 1313,
     "speciesId": "URSHIFU",
     "formNumber": "G_1",
     "name": "Urshifu Rapid Strike Gigantamax",
@@ -13171,7 +13131,7 @@
   },
   {
     "id": "ZARUDE",
-    "dexId": 1318,
+    "dexId": 1314,
     "speciesId": "ZARUDE",
     "formNumber": null,
     "name": "Zarude",
@@ -13181,7 +13141,7 @@
   },
   {
     "id": "REGIELEKI",
-    "dexId": 1319,
+    "dexId": 1315,
     "speciesId": "REGIELEKI",
     "formNumber": null,
     "name": "Regieleki",
@@ -13191,7 +13151,7 @@
   },
   {
     "id": "REGIDRAGO",
-    "dexId": 1320,
+    "dexId": 1316,
     "speciesId": "REGIDRAGO",
     "formNumber": null,
     "name": "Regidrago",
@@ -13201,7 +13161,7 @@
   },
   {
     "id": "GLASTRIER",
-    "dexId": 1321,
+    "dexId": 1317,
     "speciesId": "GLASTRIER",
     "formNumber": null,
     "name": "Glastrier",
@@ -13211,7 +13171,7 @@
   },
   {
     "id": "SPECTRIER",
-    "dexId": 1322,
+    "dexId": 1318,
     "speciesId": "SPECTRIER",
     "formNumber": null,
     "name": "Spectrier",
@@ -13221,7 +13181,7 @@
   },
   {
     "id": "CALYREX",
-    "dexId": 1323,
+    "dexId": 1319,
     "speciesId": "CALYREX",
     "formNumber": null,
     "name": "Calyrex",
@@ -13231,7 +13191,7 @@
   },
   {
     "id": "CALYREX_1",
-    "dexId": 1324,
+    "dexId": 1320,
     "speciesId": "CALYREX",
     "formNumber": "1",
     "name": "Calyrex Ice Rider",
@@ -13241,7 +13201,7 @@
   },
   {
     "id": "CALYREX_2",
-    "dexId": 1325,
+    "dexId": 1321,
     "speciesId": "CALYREX",
     "formNumber": "2",
     "name": "Calyrex Shadow Rider",
@@ -13251,7 +13211,7 @@
   },
   {
     "id": "WYRDEER",
-    "dexId": 1326,
+    "dexId": 1322,
     "speciesId": "WYRDEER",
     "formNumber": null,
     "name": "Wyrdeer",
@@ -13261,7 +13221,7 @@
   },
   {
     "id": "KLEAVOR",
-    "dexId": 1327,
+    "dexId": 1323,
     "speciesId": "KLEAVOR",
     "formNumber": null,
     "name": "Kleavor",
@@ -13271,7 +13231,7 @@
   },
   {
     "id": "URSALUNA",
-    "dexId": 1328,
+    "dexId": 1324,
     "speciesId": "URSALUNA",
     "formNumber": null,
     "name": "Ursaluna",
@@ -13281,7 +13241,7 @@
   },
   {
     "id": "URSALUNA_1",
-    "dexId": 1329,
+    "dexId": 1325,
     "speciesId": "URSALUNA",
     "formNumber": "1",
     "name": "Bloodmoon Ursaluna",
@@ -13291,7 +13251,7 @@
   },
   {
     "id": "BASCULEGION",
-    "dexId": 1330,
+    "dexId": 1326,
     "speciesId": "BASCULEGION",
     "formNumber": null,
     "name": "Basculegion",
@@ -13301,7 +13261,7 @@
   },
   {
     "id": "BASCULEGION_3",
-    "dexId": 1331,
+    "dexId": 1327,
     "speciesId": "BASCULEGION",
     "formNumber": "3",
     "name": "Basculegion Female",
@@ -13311,7 +13271,7 @@
   },
   {
     "id": "SNEASLER",
-    "dexId": 1332,
+    "dexId": 1328,
     "speciesId": "SNEASLER",
     "formNumber": null,
     "name": "Sneasler",
@@ -13321,7 +13281,7 @@
   },
   {
     "id": "OVERQWIL",
-    "dexId": 1333,
+    "dexId": 1329,
     "speciesId": "OVERQWIL",
     "formNumber": null,
     "name": "Overqwil",
@@ -13331,7 +13291,7 @@
   },
   {
     "id": "ENAMORUS",
-    "dexId": 1334,
+    "dexId": 1330,
     "speciesId": "ENAMORUS",
     "formNumber": null,
     "name": "Enamorus",
@@ -13341,7 +13301,7 @@
   },
   {
     "id": "ENAMORUS_1",
-    "dexId": 1335,
+    "dexId": 1331,
     "speciesId": "ENAMORUS",
     "formNumber": "1",
     "name": "Enamorus Therian Form",
@@ -13351,7 +13311,7 @@
   },
   {
     "id": "SPRIGATITO",
-    "dexId": 1336,
+    "dexId": 1332,
     "speciesId": "SPRIGATITO",
     "formNumber": null,
     "name": "Sprigatito",
@@ -13361,7 +13321,7 @@
   },
   {
     "id": "FLORAGATO",
-    "dexId": 1337,
+    "dexId": 1333,
     "speciesId": "FLORAGATO",
     "formNumber": null,
     "name": "Floragato",
@@ -13371,7 +13331,7 @@
   },
   {
     "id": "MEOWSCARADA",
-    "dexId": 1338,
+    "dexId": 1334,
     "speciesId": "MEOWSCARADA",
     "formNumber": null,
     "name": "Meowscarada",
@@ -13381,7 +13341,7 @@
   },
   {
     "id": "FUECOCO",
-    "dexId": 1339,
+    "dexId": 1335,
     "speciesId": "FUECOCO",
     "formNumber": null,
     "name": "Fuecoco",
@@ -13391,7 +13351,7 @@
   },
   {
     "id": "CROCALOR",
-    "dexId": 1340,
+    "dexId": 1336,
     "speciesId": "CROCALOR",
     "formNumber": null,
     "name": "Crocalor",
@@ -13401,7 +13361,7 @@
   },
   {
     "id": "SKELEDIRGE",
-    "dexId": 1341,
+    "dexId": 1337,
     "speciesId": "SKELEDIRGE",
     "formNumber": null,
     "name": "Skeledirge",
@@ -13411,7 +13371,7 @@
   },
   {
     "id": "QUAXLY",
-    "dexId": 1342,
+    "dexId": 1338,
     "speciesId": "QUAXLY",
     "formNumber": null,
     "name": "Quaxly",
@@ -13421,7 +13381,7 @@
   },
   {
     "id": "QUAXWELL",
-    "dexId": 1343,
+    "dexId": 1339,
     "speciesId": "QUAXWELL",
     "formNumber": null,
     "name": "Quaxwell",
@@ -13431,7 +13391,7 @@
   },
   {
     "id": "QUAQUAVAL",
-    "dexId": 1344,
+    "dexId": 1340,
     "speciesId": "QUAQUAVAL",
     "formNumber": null,
     "name": "Quaquaval",
@@ -13441,7 +13401,7 @@
   },
   {
     "id": "LECHONK",
-    "dexId": 1345,
+    "dexId": 1341,
     "speciesId": "LECHONK",
     "formNumber": null,
     "name": "Lechonk",
@@ -13451,7 +13411,7 @@
   },
   {
     "id": "OINKOLOGNE",
-    "dexId": 1346,
+    "dexId": 1342,
     "speciesId": "OINKOLOGNE",
     "formNumber": null,
     "name": "Oinkologne",
@@ -13461,7 +13421,7 @@
   },
   {
     "id": "OINKOLOGNE_1",
-    "dexId": 1347,
+    "dexId": 1343,
     "speciesId": "OINKOLOGNE",
     "formNumber": "1",
     "name": "Oinkologne Female",
@@ -13471,7 +13431,7 @@
   },
   {
     "id": "TAROUNTULA",
-    "dexId": 1348,
+    "dexId": 1344,
     "speciesId": "TAROUNTULA",
     "formNumber": null,
     "name": "Tarountula",
@@ -13481,7 +13441,7 @@
   },
   {
     "id": "SPIDOPS",
-    "dexId": 1349,
+    "dexId": 1345,
     "speciesId": "SPIDOPS",
     "formNumber": null,
     "name": "Spidops",
@@ -13491,7 +13451,7 @@
   },
   {
     "id": "NYMBLE",
-    "dexId": 1350,
+    "dexId": 1346,
     "speciesId": "NYMBLE",
     "formNumber": null,
     "name": "Nymble",
@@ -13501,7 +13461,7 @@
   },
   {
     "id": "LOKIX",
-    "dexId": 1351,
+    "dexId": 1347,
     "speciesId": "LOKIX",
     "formNumber": null,
     "name": "Lokix",
@@ -13511,7 +13471,7 @@
   },
   {
     "id": "PAWMI",
-    "dexId": 1352,
+    "dexId": 1348,
     "speciesId": "PAWMI",
     "formNumber": null,
     "name": "Pawmi",
@@ -13521,7 +13481,7 @@
   },
   {
     "id": "PAWMO",
-    "dexId": 1353,
+    "dexId": 1349,
     "speciesId": "PAWMO",
     "formNumber": null,
     "name": "Pawmo",
@@ -13531,7 +13491,7 @@
   },
   {
     "id": "PAWMOT",
-    "dexId": 1354,
+    "dexId": 1350,
     "speciesId": "PAWMOT",
     "formNumber": null,
     "name": "Pawmot",
@@ -13541,7 +13501,7 @@
   },
   {
     "id": "TANDEMAUS",
-    "dexId": 1355,
+    "dexId": 1351,
     "speciesId": "TANDEMAUS",
     "formNumber": null,
     "name": "Tandemaus",
@@ -13551,7 +13511,7 @@
   },
   {
     "id": "MAUSHOLD",
-    "dexId": 1356,
+    "dexId": 1352,
     "speciesId": "MAUSHOLD",
     "formNumber": null,
     "name": "Maushold",
@@ -13561,7 +13521,7 @@
   },
   {
     "id": "MAUSHOLD_1",
-    "dexId": 1357,
+    "dexId": 1353,
     "speciesId": "MAUSHOLD",
     "formNumber": "1",
     "name": "Maushold Family of Three",
@@ -13571,7 +13531,7 @@
   },
   {
     "id": "FIDOUGH",
-    "dexId": 1358,
+    "dexId": 1354,
     "speciesId": "FIDOUGH",
     "formNumber": null,
     "name": "Fidough",
@@ -13581,7 +13541,7 @@
   },
   {
     "id": "DACHSBUN",
-    "dexId": 1359,
+    "dexId": 1355,
     "speciesId": "DACHSBUN",
     "formNumber": null,
     "name": "Dachsbun",
@@ -13591,7 +13551,7 @@
   },
   {
     "id": "SMOLIV",
-    "dexId": 1360,
+    "dexId": 1356,
     "speciesId": "SMOLIV",
     "formNumber": null,
     "name": "Smoliv",
@@ -13601,7 +13561,7 @@
   },
   {
     "id": "DOLLIV",
-    "dexId": 1361,
+    "dexId": 1357,
     "speciesId": "DOLLIV",
     "formNumber": null,
     "name": "Dolliv",
@@ -13611,7 +13571,7 @@
   },
   {
     "id": "ARBOLIVA",
-    "dexId": 1362,
+    "dexId": 1358,
     "speciesId": "ARBOLIVA",
     "formNumber": null,
     "name": "Arboliva",
@@ -13621,7 +13581,7 @@
   },
   {
     "id": "SQUAWKABILLY",
-    "dexId": 1363,
+    "dexId": 1359,
     "speciesId": "SQUAWKABILLY",
     "formNumber": null,
     "name": "Squawkabilly",
@@ -13631,7 +13591,7 @@
   },
   {
     "id": "SQUAWKABILLY_1",
-    "dexId": 1364,
+    "dexId": 1360,
     "speciesId": "SQUAWKABILLY",
     "formNumber": "1",
     "name": "Squawkabilly Blue Plumage",
@@ -13641,7 +13601,7 @@
   },
   {
     "id": "SQUAWKABILLY_2",
-    "dexId": 1365,
+    "dexId": 1361,
     "speciesId": "SQUAWKABILLY",
     "formNumber": "2",
     "name": "Squawkabilly Yellow Plumage",
@@ -13651,7 +13611,7 @@
   },
   {
     "id": "SQUAWKABILLY_3",
-    "dexId": 1366,
+    "dexId": 1362,
     "speciesId": "SQUAWKABILLY",
     "formNumber": "3",
     "name": "Squawkabilly White Plumage",
@@ -13661,7 +13621,7 @@
   },
   {
     "id": "NACLI",
-    "dexId": 1367,
+    "dexId": 1363,
     "speciesId": "NACLI",
     "formNumber": null,
     "name": "Nacli",
@@ -13671,7 +13631,7 @@
   },
   {
     "id": "NACLSTACK",
-    "dexId": 1368,
+    "dexId": 1364,
     "speciesId": "NACLSTACK",
     "formNumber": null,
     "name": "Naclstack",
@@ -13681,7 +13641,7 @@
   },
   {
     "id": "GARGANACL",
-    "dexId": 1369,
+    "dexId": 1365,
     "speciesId": "GARGANACL",
     "formNumber": null,
     "name": "Garganacl",
@@ -13691,7 +13651,7 @@
   },
   {
     "id": "CHARCADET",
-    "dexId": 1370,
+    "dexId": 1366,
     "speciesId": "CHARCADET",
     "formNumber": null,
     "name": "Charcadet",
@@ -13701,7 +13661,7 @@
   },
   {
     "id": "ARMAROUGE",
-    "dexId": 1371,
+    "dexId": 1367,
     "speciesId": "ARMAROUGE",
     "formNumber": null,
     "name": "Armarouge",
@@ -13711,7 +13671,7 @@
   },
   {
     "id": "CERULEDGE",
-    "dexId": 1372,
+    "dexId": 1368,
     "speciesId": "CERULEDGE",
     "formNumber": null,
     "name": "Ceruledge",
@@ -13721,7 +13681,7 @@
   },
   {
     "id": "TADBULB",
-    "dexId": 1373,
+    "dexId": 1369,
     "speciesId": "TADBULB",
     "formNumber": null,
     "name": "Tadbulb",
@@ -13731,7 +13691,7 @@
   },
   {
     "id": "BELLIBOLT",
-    "dexId": 1374,
+    "dexId": 1370,
     "speciesId": "BELLIBOLT",
     "formNumber": null,
     "name": "Bellibolt",
@@ -13741,7 +13701,7 @@
   },
   {
     "id": "WATTREL",
-    "dexId": 1375,
+    "dexId": 1371,
     "speciesId": "WATTREL",
     "formNumber": null,
     "name": "Wattrel",
@@ -13751,7 +13711,7 @@
   },
   {
     "id": "KILOWATTREL",
-    "dexId": 1376,
+    "dexId": 1372,
     "speciesId": "KILOWATTREL",
     "formNumber": null,
     "name": "Kilowattrel",
@@ -13761,7 +13721,7 @@
   },
   {
     "id": "MASCHIFF",
-    "dexId": 1377,
+    "dexId": 1373,
     "speciesId": "MASCHIFF",
     "formNumber": null,
     "name": "Maschiff",
@@ -13771,7 +13731,7 @@
   },
   {
     "id": "MABOSSTIFF",
-    "dexId": 1378,
+    "dexId": 1374,
     "speciesId": "MABOSSTIFF",
     "formNumber": null,
     "name": "Mabosstiff",
@@ -13781,7 +13741,7 @@
   },
   {
     "id": "SHROODLE",
-    "dexId": 1379,
+    "dexId": 1375,
     "speciesId": "SHROODLE",
     "formNumber": null,
     "name": "Shroodle",
@@ -13791,7 +13751,7 @@
   },
   {
     "id": "GRAFAIAI",
-    "dexId": 1380,
+    "dexId": 1376,
     "speciesId": "GRAFAIAI",
     "formNumber": null,
     "name": "Grafaiai",
@@ -13801,7 +13761,7 @@
   },
   {
     "id": "BRAMBLIN",
-    "dexId": 1381,
+    "dexId": 1377,
     "speciesId": "BRAMBLIN",
     "formNumber": null,
     "name": "Bramblin",
@@ -13811,7 +13771,7 @@
   },
   {
     "id": "BRAMBLEGHAST",
-    "dexId": 1382,
+    "dexId": 1378,
     "speciesId": "BRAMBLEGHAST",
     "formNumber": null,
     "name": "Brambleghast",
@@ -13821,7 +13781,7 @@
   },
   {
     "id": "TOEDSCOOL",
-    "dexId": 1383,
+    "dexId": 1379,
     "speciesId": "TOEDSCOOL",
     "formNumber": null,
     "name": "Toedscool",
@@ -13831,7 +13791,7 @@
   },
   {
     "id": "TOEDSCRUEL",
-    "dexId": 1384,
+    "dexId": 1380,
     "speciesId": "TOEDSCRUEL",
     "formNumber": null,
     "name": "Toedscruel",
@@ -13841,7 +13801,7 @@
   },
   {
     "id": "KLAWF",
-    "dexId": 1385,
+    "dexId": 1381,
     "speciesId": "KLAWF",
     "formNumber": null,
     "name": "Klawf",
@@ -13851,7 +13811,7 @@
   },
   {
     "id": "CAPSAKID",
-    "dexId": 1386,
+    "dexId": 1382,
     "speciesId": "CAPSAKID",
     "formNumber": null,
     "name": "Capsakid",
@@ -13861,7 +13821,7 @@
   },
   {
     "id": "SCOVILLAIN",
-    "dexId": 1387,
+    "dexId": 1383,
     "speciesId": "SCOVILLAIN",
     "formNumber": null,
     "name": "Scovillain",
@@ -13871,7 +13831,7 @@
   },
   {
     "id": "SCOVILLAIN_1",
-    "dexId": 1388,
+    "dexId": 1384,
     "speciesId": "SCOVILLAIN",
     "formNumber": "1",
     "name": "Mega Scovillain",
@@ -13881,7 +13841,7 @@
   },
   {
     "id": "RELLOR",
-    "dexId": 1389,
+    "dexId": 1385,
     "speciesId": "RELLOR",
     "formNumber": null,
     "name": "Rellor",
@@ -13891,7 +13851,7 @@
   },
   {
     "id": "RABSCA",
-    "dexId": 1390,
+    "dexId": 1386,
     "speciesId": "RABSCA",
     "formNumber": null,
     "name": "Rabsca",
@@ -13901,7 +13861,7 @@
   },
   {
     "id": "FLITTLE",
-    "dexId": 1391,
+    "dexId": 1387,
     "speciesId": "FLITTLE",
     "formNumber": null,
     "name": "Flittle",
@@ -13911,7 +13871,7 @@
   },
   {
     "id": "ESPATHRA",
-    "dexId": 1392,
+    "dexId": 1388,
     "speciesId": "ESPATHRA",
     "formNumber": null,
     "name": "Espathra",
@@ -13921,7 +13881,7 @@
   },
   {
     "id": "TINKATINK",
-    "dexId": 1393,
+    "dexId": 1389,
     "speciesId": "TINKATINK",
     "formNumber": null,
     "name": "Tinkatink",
@@ -13931,7 +13891,7 @@
   },
   {
     "id": "TINKATUFF",
-    "dexId": 1394,
+    "dexId": 1390,
     "speciesId": "TINKATUFF",
     "formNumber": null,
     "name": "Tinkatuff",
@@ -13941,7 +13901,7 @@
   },
   {
     "id": "TINKATON",
-    "dexId": 1395,
+    "dexId": 1391,
     "speciesId": "TINKATON",
     "formNumber": null,
     "name": "Tinkaton",
@@ -13951,7 +13911,7 @@
   },
   {
     "id": "WIGLETT",
-    "dexId": 1396,
+    "dexId": 1392,
     "speciesId": "WIGLETT",
     "formNumber": null,
     "name": "Wiglett",
@@ -13961,7 +13921,7 @@
   },
   {
     "id": "WUGTRIO",
-    "dexId": 1397,
+    "dexId": 1393,
     "speciesId": "WUGTRIO",
     "formNumber": null,
     "name": "Wugtrio",
@@ -13971,7 +13931,7 @@
   },
   {
     "id": "BOMBIRDIER",
-    "dexId": 1398,
+    "dexId": 1394,
     "speciesId": "BOMBIRDIER",
     "formNumber": null,
     "name": "Bombirdier",
@@ -13981,7 +13941,7 @@
   },
   {
     "id": "FINIZEN",
-    "dexId": 1399,
+    "dexId": 1395,
     "speciesId": "FINIZEN",
     "formNumber": null,
     "name": "Finizen",
@@ -13991,7 +13951,7 @@
   },
   {
     "id": "PALAFIN",
-    "dexId": 1400,
+    "dexId": 1396,
     "speciesId": "PALAFIN",
     "formNumber": null,
     "name": "Palafin",
@@ -14001,7 +13961,7 @@
   },
   {
     "id": "PALAFIN_1",
-    "dexId": 1401,
+    "dexId": 1397,
     "speciesId": "PALAFIN",
     "formNumber": "1",
     "name": "Palafin Hero Form",
@@ -14011,7 +13971,7 @@
   },
   {
     "id": "VAROOM",
-    "dexId": 1402,
+    "dexId": 1398,
     "speciesId": "VAROOM",
     "formNumber": null,
     "name": "Varoom",
@@ -14021,7 +13981,7 @@
   },
   {
     "id": "REVAVROOM",
-    "dexId": 1403,
+    "dexId": 1399,
     "speciesId": "REVAVROOM",
     "formNumber": null,
     "name": "Revavroom",
@@ -14031,7 +13991,7 @@
   },
   {
     "id": "CYCLIZAR",
-    "dexId": 1404,
+    "dexId": 1400,
     "speciesId": "CYCLIZAR",
     "formNumber": null,
     "name": "Cyclizar",
@@ -14041,7 +14001,7 @@
   },
   {
     "id": "ORTHWORM",
-    "dexId": 1405,
+    "dexId": 1401,
     "speciesId": "ORTHWORM",
     "formNumber": null,
     "name": "Orthworm",
@@ -14051,7 +14011,7 @@
   },
   {
     "id": "GLIMMET",
-    "dexId": 1406,
+    "dexId": 1402,
     "speciesId": "GLIMMET",
     "formNumber": null,
     "name": "Glimmet",
@@ -14061,7 +14021,7 @@
   },
   {
     "id": "GLIMMORA",
-    "dexId": 1407,
+    "dexId": 1403,
     "speciesId": "GLIMMORA",
     "formNumber": null,
     "name": "Glimmora",
@@ -14071,7 +14031,7 @@
   },
   {
     "id": "GLIMMORA_1",
-    "dexId": 1408,
+    "dexId": 1404,
     "speciesId": "GLIMMORA",
     "formNumber": "1",
     "name": "Mega Glimmora",
@@ -14081,7 +14041,7 @@
   },
   {
     "id": "GREAVARD",
-    "dexId": 1409,
+    "dexId": 1405,
     "speciesId": "GREAVARD",
     "formNumber": null,
     "name": "Greavard",
@@ -14091,7 +14051,7 @@
   },
   {
     "id": "HOUNDSTONE",
-    "dexId": 1410,
+    "dexId": 1406,
     "speciesId": "HOUNDSTONE",
     "formNumber": null,
     "name": "Houndstone",
@@ -14101,7 +14061,7 @@
   },
   {
     "id": "FLAMIGO",
-    "dexId": 1411,
+    "dexId": 1407,
     "speciesId": "FLAMIGO",
     "formNumber": null,
     "name": "Flamigo",
@@ -14111,7 +14071,7 @@
   },
   {
     "id": "CETODDLE",
-    "dexId": 1412,
+    "dexId": 1408,
     "speciesId": "CETODDLE",
     "formNumber": null,
     "name": "Cetoddle",
@@ -14121,7 +14081,7 @@
   },
   {
     "id": "CETITAN",
-    "dexId": 1413,
+    "dexId": 1409,
     "speciesId": "CETITAN",
     "formNumber": null,
     "name": "Cetitan",
@@ -14131,7 +14091,7 @@
   },
   {
     "id": "VELUZA",
-    "dexId": 1414,
+    "dexId": 1410,
     "speciesId": "VELUZA",
     "formNumber": null,
     "name": "Veluza",
@@ -14141,7 +14101,7 @@
   },
   {
     "id": "DONDOZO",
-    "dexId": 1415,
+    "dexId": 1411,
     "speciesId": "DONDOZO",
     "formNumber": null,
     "name": "Dondozo",
@@ -14151,7 +14111,7 @@
   },
   {
     "id": "TATSUGIRI",
-    "dexId": 1416,
+    "dexId": 1412,
     "speciesId": "TATSUGIRI",
     "formNumber": null,
     "name": "Tatsugiri",
@@ -14161,7 +14121,7 @@
   },
   {
     "id": "TATSUGIRI_1",
-    "dexId": 1417,
+    "dexId": 1413,
     "speciesId": "TATSUGIRI",
     "formNumber": "1",
     "name": "Tatsugiri Droopy Form",
@@ -14171,7 +14131,7 @@
   },
   {
     "id": "TATSUGIRI_2",
-    "dexId": 1418,
+    "dexId": 1414,
     "speciesId": "TATSUGIRI",
     "formNumber": "2",
     "name": "Tatsugiri Stretchy Form",
@@ -14181,7 +14141,7 @@
   },
   {
     "id": "TATSUGIRI_3",
-    "dexId": 1419,
+    "dexId": 1415,
     "speciesId": "TATSUGIRI",
     "formNumber": "3",
     "name": "Mega Tatsugiri (Curly Form)",
@@ -14191,7 +14151,7 @@
   },
   {
     "id": "TATSUGIRI_4",
-    "dexId": 1420,
+    "dexId": 1416,
     "speciesId": "TATSUGIRI",
     "formNumber": "4",
     "name": "Mega Tatsugiri (Droopy Form)",
@@ -14201,7 +14161,7 @@
   },
   {
     "id": "TATSUGIRI_5",
-    "dexId": 1421,
+    "dexId": 1417,
     "speciesId": "TATSUGIRI",
     "formNumber": "5",
     "name": "Mega Tatsugiri (Stretchy Form)",
@@ -14211,7 +14171,7 @@
   },
   {
     "id": "ANNIHILAPE",
-    "dexId": 1422,
+    "dexId": 1418,
     "speciesId": "ANNIHILAPE",
     "formNumber": null,
     "name": "Annihilape",
@@ -14221,7 +14181,7 @@
   },
   {
     "id": "CLODSIRE",
-    "dexId": 1423,
+    "dexId": 1419,
     "speciesId": "CLODSIRE",
     "formNumber": null,
     "name": "Clodsire",
@@ -14231,7 +14191,7 @@
   },
   {
     "id": "FARIGIRAF",
-    "dexId": 1424,
+    "dexId": 1420,
     "speciesId": "FARIGIRAF",
     "formNumber": null,
     "name": "Farigiraf",
@@ -14241,7 +14201,7 @@
   },
   {
     "id": "DUDUNSPARCE",
-    "dexId": 1425,
+    "dexId": 1421,
     "speciesId": "DUDUNSPARCE",
     "formNumber": null,
     "name": "Dudunsparce",
@@ -14251,7 +14211,7 @@
   },
   {
     "id": "DUDUNSPARCE_1",
-    "dexId": 1426,
+    "dexId": 1422,
     "speciesId": "DUDUNSPARCE",
     "formNumber": "1",
     "name": "Dudunsparce Three-Segment Form",
@@ -14261,7 +14221,7 @@
   },
   {
     "id": "KINGAMBIT",
-    "dexId": 1427,
+    "dexId": 1423,
     "speciesId": "KINGAMBIT",
     "formNumber": null,
     "name": "Kingambit",
@@ -14271,7 +14231,7 @@
   },
   {
     "id": "GREATTUSK",
-    "dexId": 1428,
+    "dexId": 1424,
     "speciesId": "GREATTUSK",
     "formNumber": null,
     "name": "Great Tusk",
@@ -14281,7 +14241,7 @@
   },
   {
     "id": "SCREAMTAIL",
-    "dexId": 1429,
+    "dexId": 1425,
     "speciesId": "SCREAMTAIL",
     "formNumber": null,
     "name": "Scream Tail",
@@ -14291,7 +14251,7 @@
   },
   {
     "id": "BRUTEBONNET",
-    "dexId": 1430,
+    "dexId": 1426,
     "speciesId": "BRUTEBONNET",
     "formNumber": null,
     "name": "Brute Bonnet",
@@ -14301,7 +14261,7 @@
   },
   {
     "id": "FLUTTERMANE",
-    "dexId": 1431,
+    "dexId": 1427,
     "speciesId": "FLUTTERMANE",
     "formNumber": null,
     "name": "Flutter Mane",
@@ -14311,7 +14271,7 @@
   },
   {
     "id": "SLITHERWING",
-    "dexId": 1432,
+    "dexId": 1428,
     "speciesId": "SLITHERWING",
     "formNumber": null,
     "name": "Slither Wing",
@@ -14321,7 +14281,7 @@
   },
   {
     "id": "SANDYSHOCKS",
-    "dexId": 1433,
+    "dexId": 1429,
     "speciesId": "SANDYSHOCKS",
     "formNumber": null,
     "name": "Sandy Shocks",
@@ -14331,7 +14291,7 @@
   },
   {
     "id": "IRONTREADS",
-    "dexId": 1434,
+    "dexId": 1430,
     "speciesId": "IRONTREADS",
     "formNumber": null,
     "name": "Iron Treads",
@@ -14341,7 +14301,7 @@
   },
   {
     "id": "IRONBUNDLE",
-    "dexId": 1435,
+    "dexId": 1431,
     "speciesId": "IRONBUNDLE",
     "formNumber": null,
     "name": "Iron Bundle",
@@ -14351,7 +14311,7 @@
   },
   {
     "id": "IRONHANDS",
-    "dexId": 1436,
+    "dexId": 1432,
     "speciesId": "IRONHANDS",
     "formNumber": null,
     "name": "Iron Hands",
@@ -14361,7 +14321,7 @@
   },
   {
     "id": "IRONJUGULIS",
-    "dexId": 1437,
+    "dexId": 1433,
     "speciesId": "IRONJUGULIS",
     "formNumber": null,
     "name": "Iron Jugulis",
@@ -14371,7 +14331,7 @@
   },
   {
     "id": "IRONMOTH",
-    "dexId": 1438,
+    "dexId": 1434,
     "speciesId": "IRONMOTH",
     "formNumber": null,
     "name": "Iron Moth",
@@ -14381,7 +14341,7 @@
   },
   {
     "id": "IRONTHORNS",
-    "dexId": 1439,
+    "dexId": 1435,
     "speciesId": "IRONTHORNS",
     "formNumber": null,
     "name": "Iron Thorns",
@@ -14391,7 +14351,7 @@
   },
   {
     "id": "FRIGIBAX",
-    "dexId": 1440,
+    "dexId": 1436,
     "speciesId": "FRIGIBAX",
     "formNumber": null,
     "name": "Frigibax",
@@ -14401,7 +14361,7 @@
   },
   {
     "id": "ARCTIBAX",
-    "dexId": 1441,
+    "dexId": 1437,
     "speciesId": "ARCTIBAX",
     "formNumber": null,
     "name": "Arctibax",
@@ -14411,7 +14371,7 @@
   },
   {
     "id": "BAXCALIBUR",
-    "dexId": 1442,
+    "dexId": 1438,
     "speciesId": "BAXCALIBUR",
     "formNumber": null,
     "name": "Baxcalibur",
@@ -14421,7 +14381,7 @@
   },
   {
     "id": "BAXCALIBUR_1",
-    "dexId": 1443,
+    "dexId": 1439,
     "speciesId": "BAXCALIBUR",
     "formNumber": "1",
     "name": "Mega Baxcalibur",
@@ -14431,7 +14391,7 @@
   },
   {
     "id": "GIMMIGHOUL",
-    "dexId": 1444,
+    "dexId": 1440,
     "speciesId": "GIMMIGHOUL",
     "formNumber": null,
     "name": "Gimmighoul",
@@ -14441,7 +14401,7 @@
   },
   {
     "id": "GIMMIGHOUL_1",
-    "dexId": 1445,
+    "dexId": 1441,
     "speciesId": "GIMMIGHOUL",
     "formNumber": "1",
     "name": "Gimmighoul Roaming Form",
@@ -14451,7 +14411,7 @@
   },
   {
     "id": "GHOLDENGO",
-    "dexId": 1446,
+    "dexId": 1442,
     "speciesId": "GHOLDENGO",
     "formNumber": null,
     "name": "Gholdengo",
@@ -14461,7 +14421,7 @@
   },
   {
     "id": "WOCHIEN",
-    "dexId": 1447,
+    "dexId": 1443,
     "speciesId": "WOCHIEN",
     "formNumber": null,
     "name": "Wo-Chien",
@@ -14471,7 +14431,7 @@
   },
   {
     "id": "CHIENPAO",
-    "dexId": 1448,
+    "dexId": 1444,
     "speciesId": "CHIENPAO",
     "formNumber": null,
     "name": "Chien-Pao",
@@ -14481,7 +14441,7 @@
   },
   {
     "id": "TINGLU",
-    "dexId": 1449,
+    "dexId": 1445,
     "speciesId": "TINGLU",
     "formNumber": null,
     "name": "Ting-Lu",
@@ -14491,7 +14451,7 @@
   },
   {
     "id": "CHIYU",
-    "dexId": 1450,
+    "dexId": 1446,
     "speciesId": "CHIYU",
     "formNumber": null,
     "name": "Chi-Yu",
@@ -14501,7 +14461,7 @@
   },
   {
     "id": "ROARINGMOON",
-    "dexId": 1451,
+    "dexId": 1447,
     "speciesId": "ROARINGMOON",
     "formNumber": null,
     "name": "Roaring Moon",
@@ -14511,7 +14471,7 @@
   },
   {
     "id": "IRONVALIANT",
-    "dexId": 1452,
+    "dexId": 1448,
     "speciesId": "IRONVALIANT",
     "formNumber": null,
     "name": "Iron Valiant",
@@ -14521,7 +14481,7 @@
   },
   {
     "id": "KORAIDON",
-    "dexId": 1453,
+    "dexId": 1449,
     "speciesId": "KORAIDON",
     "formNumber": null,
     "name": "Koraidon",
@@ -14531,7 +14491,7 @@
   },
   {
     "id": "MIRAIDON",
-    "dexId": 1454,
+    "dexId": 1450,
     "speciesId": "MIRAIDON",
     "formNumber": null,
     "name": "Miraidon",
@@ -14541,7 +14501,7 @@
   },
   {
     "id": "WALKINGWAKE",
-    "dexId": 1455,
+    "dexId": 1451,
     "speciesId": "WALKINGWAKE",
     "formNumber": null,
     "name": "Walking Wake",
@@ -14551,7 +14511,7 @@
   },
   {
     "id": "IRONLEAVES",
-    "dexId": 1456,
+    "dexId": 1452,
     "speciesId": "IRONLEAVES",
     "formNumber": null,
     "name": "Iron Leaves",
@@ -14561,7 +14521,7 @@
   },
   {
     "id": "DIPPLIN",
-    "dexId": 1457,
+    "dexId": 1453,
     "speciesId": "DIPPLIN",
     "formNumber": null,
     "name": "Dipplin",
@@ -14571,7 +14531,7 @@
   },
   {
     "id": "POLTCHAGEIST",
-    "dexId": 1458,
+    "dexId": 1454,
     "speciesId": "POLTCHAGEIST",
     "formNumber": null,
     "name": "Poltchageist",
@@ -14581,7 +14541,7 @@
   },
   {
     "id": "SINISTCHA",
-    "dexId": 1459,
+    "dexId": 1455,
     "speciesId": "SINISTCHA",
     "formNumber": null,
     "name": "Sinistcha",
@@ -14591,7 +14551,7 @@
   },
   {
     "id": "OKIDOGI",
-    "dexId": 1460,
+    "dexId": 1456,
     "speciesId": "OKIDOGI",
     "formNumber": null,
     "name": "Okidogi",
@@ -14601,7 +14561,7 @@
   },
   {
     "id": "MUNKIDORI",
-    "dexId": 1461,
+    "dexId": 1457,
     "speciesId": "MUNKIDORI",
     "formNumber": null,
     "name": "Munkidori",
@@ -14611,7 +14571,7 @@
   },
   {
     "id": "FEZANDIPITI",
-    "dexId": 1462,
+    "dexId": 1458,
     "speciesId": "FEZANDIPITI",
     "formNumber": null,
     "name": "Fezandipiti",
@@ -14621,7 +14581,7 @@
   },
   {
     "id": "OGERPON",
-    "dexId": 1463,
+    "dexId": 1459,
     "speciesId": "OGERPON",
     "formNumber": null,
     "name": "Ogerpon",
@@ -14631,7 +14591,7 @@
   },
   {
     "id": "OGERPON_1",
-    "dexId": 1464,
+    "dexId": 1460,
     "speciesId": "OGERPON",
     "formNumber": "1",
     "name": "Ogerpon Wellspring Mask",
@@ -14641,7 +14601,7 @@
   },
   {
     "id": "OGERPON_2",
-    "dexId": 1465,
+    "dexId": 1461,
     "speciesId": "OGERPON",
     "formNumber": "2",
     "name": "Ogerpon Hearthflame Mask",
@@ -14651,7 +14611,7 @@
   },
   {
     "id": "OGERPON_3",
-    "dexId": 1466,
+    "dexId": 1462,
     "speciesId": "OGERPON",
     "formNumber": "3",
     "name": "Ogerpon Cornerstone Mask",
@@ -14661,7 +14621,7 @@
   },
   {
     "id": "OGERPON_4",
-    "dexId": 1467,
+    "dexId": 1463,
     "speciesId": "OGERPON",
     "formNumber": "4",
     "name": "Ogerpon Teal Mask",
@@ -14671,7 +14631,7 @@
   },
   {
     "id": "OGERPON_5",
-    "dexId": 1468,
+    "dexId": 1464,
     "speciesId": "OGERPON",
     "formNumber": "5",
     "name": "Ogerpon Wellspring Mask",
@@ -14681,7 +14641,7 @@
   },
   {
     "id": "OGERPON_6",
-    "dexId": 1469,
+    "dexId": 1465,
     "speciesId": "OGERPON",
     "formNumber": "6",
     "name": "Ogerpon Hearthflame Mask",
@@ -14691,7 +14651,7 @@
   },
   {
     "id": "OGERPON_7",
-    "dexId": 1470,
+    "dexId": 1466,
     "speciesId": "OGERPON",
     "formNumber": "7",
     "name": "Ogerpon Cornerstone Mask",
@@ -14701,7 +14661,7 @@
   },
   {
     "id": "OGERPON_8",
-    "dexId": 1471,
+    "dexId": 1467,
     "speciesId": "OGERPON",
     "formNumber": "8",
     "name": "Ogerpon Terastal Teal Mask",
@@ -14711,7 +14671,7 @@
   },
   {
     "id": "OGERPON_9",
-    "dexId": 1472,
+    "dexId": 1468,
     "speciesId": "OGERPON",
     "formNumber": "9",
     "name": "Ogerpon Terastal Wellspring Mask",
@@ -14721,7 +14681,7 @@
   },
   {
     "id": "OGERPON_10",
-    "dexId": 1473,
+    "dexId": 1469,
     "speciesId": "OGERPON",
     "formNumber": "10",
     "name": "Ogerpon Terastal Hearthflame Mask",
@@ -14731,7 +14691,7 @@
   },
   {
     "id": "OGERPON_11",
-    "dexId": 1474,
+    "dexId": 1470,
     "speciesId": "OGERPON",
     "formNumber": "11",
     "name": "Ogerpon Terastal Cornerstone Mask",
@@ -14741,7 +14701,7 @@
   },
   {
     "id": "ARCHALUDON",
-    "dexId": 1475,
+    "dexId": 1471,
     "speciesId": "ARCHALUDON",
     "formNumber": null,
     "name": "Archaludon",
@@ -14751,7 +14711,7 @@
   },
   {
     "id": "HYDRAPPLE",
-    "dexId": 1476,
+    "dexId": 1472,
     "speciesId": "HYDRAPPLE",
     "formNumber": null,
     "name": "Hydrapple",
@@ -14761,7 +14721,7 @@
   },
   {
     "id": "GOUGINGFIRE",
-    "dexId": 1477,
+    "dexId": 1473,
     "speciesId": "GOUGINGFIRE",
     "formNumber": null,
     "name": "Gouging Fire",
@@ -14771,7 +14731,7 @@
   },
   {
     "id": "RAGINGBOLT",
-    "dexId": 1478,
+    "dexId": 1474,
     "speciesId": "RAGINGBOLT",
     "formNumber": null,
     "name": "Raging Bolt",
@@ -14781,7 +14741,7 @@
   },
   {
     "id": "IRONBOULDER",
-    "dexId": 1479,
+    "dexId": 1475,
     "speciesId": "IRONBOULDER",
     "formNumber": null,
     "name": "Iron Boulder",
@@ -14791,7 +14751,7 @@
   },
   {
     "id": "IRONCROWN",
-    "dexId": 1480,
+    "dexId": 1476,
     "speciesId": "IRONCROWN",
     "formNumber": null,
     "name": "Iron Crown",
@@ -14801,7 +14761,7 @@
   },
   {
     "id": "TERAPAGOS",
-    "dexId": 1481,
+    "dexId": 1477,
     "speciesId": "TERAPAGOS",
     "formNumber": null,
     "name": "Terapagos",
@@ -14811,7 +14771,7 @@
   },
   {
     "id": "TERAPAGOS_1",
-    "dexId": 1482,
+    "dexId": 1478,
     "speciesId": "TERAPAGOS",
     "formNumber": "1",
     "name": "Terapagos Terastal Form",
@@ -14821,7 +14781,7 @@
   },
   {
     "id": "TERAPAGOS_2",
-    "dexId": 1483,
+    "dexId": 1479,
     "speciesId": "TERAPAGOS",
     "formNumber": "2",
     "name": "Terapagos Stellar Form",
@@ -14831,7 +14791,7 @@
   },
   {
     "id": "PECHARUNT",
-    "dexId": 1484,
+    "dexId": 1480,
     "speciesId": "PECHARUNT",
     "formNumber": null,
     "name": "Pecharunt",

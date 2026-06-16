@@ -1482,24 +1482,6 @@ Moves = 1,DRAGONRAGE,1,ICYWIND,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBR
 Height = 3.3
 Pokedex = It's said that this Pokémon battles in order to protect the ideal world that will exist in the future for people and Pokémon.
 #-------------------------------
-[KYUREM,3]
-PokedexForm = 1
-BaseStats = 125,120,90,95,170,100
-BaseExp = 350
-EVs = SPECIAL_ATTACK,3
-Abilities = TURBOBLAZE
-Moves = 1,DRAGONRAGE,1,ICYWIND,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONFLARE,50,ICEBURN,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
-Height = 3.6
-#-------------------------------
-[KYUREM,4]
-PokedexForm = 2
-BaseStats = 125,170,100,95,120,90
-BaseExp = 350
-EVs = ATTACK,3
-Abilities = TERAVOLT
-Moves = 1,DRAGONRAGE,1,ICYWIND,8,IMPRISON,15,ANCIENTPOWER,22,ICEBEAM,29,DRAGONBREATH,36,SLASH,43,FUSIONBOLT,50,FREEZESHOCK,57,DRAGONPULSE,64,NOBLEROAR,71,ENDEAVOR,78,BLIZZARD,85,OUTRAGE,92,HYPERVOICE
-Height = 3.3
-#-------------------------------
 [KELDEO,1]
 FormName = Resolute Form
 Pokedex = The power that lay hidden in its body now covers its horn, turning it into a sword that can slice through anything.
@@ -1996,16 +1978,6 @@ Abilities = NEUROFORCE
 Height = 7.5
 Color = Yellow
 Pokedex = The light pouring out from all over its body affects living things and nature, impacting them in various ways.
-#-------------------------------
-[NECROZMA,4]
-PokedexForm = 3
-Types = PSYCHIC,DRAGON
-BaseStats = 97,167,97,129,167,97
-BaseExp = 377
-EVs = ATTACK,1,SPECIAL_ATTACK,1,SPEED,1
-Abilities = NEUROFORCE
-Height = 7.5
-Color = Yellow
 #-------------------------------
 [MAGEARNA,1]
 FormName = Original Color
@@ -3198,19 +3170,6 @@ Height = 0.8
 Weight = 10.1
 Category = Second Sight
 Pokedex = Mega Meowstic can use its psychic power to compress or expand anything. It overwhelms foes by contorting space itself.
-Generation = 9
-#-------------------------------
-[MEOWSTIC,3]
-PokedexForm = 2
-MegaStone = MEOWSTICITE
-UnmegaForm = 1
-BaseStats = 74,48,76,124,143,101
-BaseExp = 213
-Abilities = TRACE
-HiddenAbilities = TRACE
-HiddenAbilities = COMPETITIVE
-Height = 0.8
-Weight = 10.1
 Generation = 9
 #-------------------------------
 [MALAMAR,1]
