@@ -52,7 +52,37 @@ def normalize_base_id(value):
     return re.sub(r"[^A-Z0-9]", "", value.upper())
 
 
-def sprite_stem_candidates(base_id, form_number=None):
+def normalize_sprite_part(value):
+    return re.sub(r"[^A-Z0-9_]", "", value.upper())
+
+
+def parse_form_id(raw_id):
+    raw_id = raw_id.strip()
+
+    if "," in raw_id:
+        base_id, form_id = raw_id.split(",", 1)
+        return base_id.strip(), form_id.strip()
+
+    if "_" in raw_id:
+        base_id, form_id = raw_id.split("_", 1)
+        return base_id.strip(), form_id.strip()
+
+    return raw_id, None
+
+
+def sprite_suffix_for_form(form_id):
+    if form_id is None:
+        return None
+
+    form_id = form_id.strip()
+
+    if form_id.upper().startswith("G"):
+        return normalize_sprite_part(form_id)
+
+    return normalize_sprite_part(form_id)
+
+
+def sprite_stem_candidates(base_id, form_id=None):
     clean = normalize_base_id(base_id)
 
     special = {
@@ -64,20 +94,27 @@ def sprite_stem_candidates(base_id, form_number=None):
 
     base_stem = special.get(clean, clean)
 
-    if form_number is None:
+    if form_id is None:
         return [base_stem, clean]
 
-    return [
-        f"{base_stem}_{form_number}",
-        f"{clean}_{form_number}",
+    suffix = sprite_suffix_for_form(form_id)
+
+    candidates = [
+        f"{base_stem}_{suffix}",
+        f"{clean}_{suffix}",
     ]
 
+    if clean == "BASCULEGION" and suffix == "FEMALE":
+        candidates.insert(0, "BASCULEGION_FEMALE")
 
-def find_sprite(normal_sprites, shiny_sprites, base_id, form_number=None):
+    return candidates
+
+
+def find_sprite(normal_sprites, shiny_sprites, base_id, form_id=None):
     normal_file = None
     shiny_file = None
 
-    for candidate in sprite_stem_candidates(base_id, form_number):
+    for candidate in sprite_stem_candidates(base_id, form_id):
         key = candidate.upper()
 
         if normal_file is None and key in normal_sprites:
@@ -92,7 +129,7 @@ def find_sprite(normal_sprites, shiny_sprites, base_id, form_number=None):
     }
 
 
-def display_form_name(base_name, form_fields, form_number):
+def display_form_name(base_name, form_fields, form_id):
     form_name = (
         form_fields.get("FormName")
         or form_fields.get("Form")
@@ -100,13 +137,41 @@ def display_form_name(base_name, form_fields, form_number):
         or ""
     )
 
-    if not form_name:
-        return f"{base_name} Form {form_number}"
+    if form_name:
+        if base_name.lower() in form_name.lower():
+            return form_name
 
-    if base_name.lower() in form_name.lower():
-        return form_name
+        return f"{base_name} {form_name}"
 
-    return f"{base_name} {form_name}"
+    if form_id and form_id.upper().startswith("G"):
+        if "_" in form_id:
+            variant = form_id.split("_", 1)[1]
+            return f"{base_name} Gigantamax {variant}"
+
+        return f"{base_name} Gigantamax"
+
+    return f"{base_name} Form {form_id}"
+
+
+def form_sort_key(form):
+    form_id = str(form["formId"]).strip()
+    upper = form_id.upper()
+
+    if upper == "G":
+        return (9998, 0, "")
+
+    if upper.startswith("G_"):
+        suffix = upper.split("_", 1)[1]
+
+        if suffix.isdigit():
+            return (9998, int(suffix), "")
+
+        return (9998, 9999, suffix)
+
+    if form_id.isdigit():
+        return (int(form_id), 0, "")
+
+    return (9999, 0, upper)
 
 
 pokemon_entries = parse_pbs(read_text(IMAGES_DIR / "pokemon.txt"))
@@ -118,25 +183,15 @@ shiny_sprites = sprite_files(SHINY_DIR)
 forms_by_base = {}
 
 for entry in form_entries:
-    raw = entry["id"]
-    base_id = raw
-    form_number = None
+    base_id, form_id = parse_form_id(entry["id"])
 
-    if "," in raw:
-        parts = raw.split(",", 1)
-        base_id = parts[0].strip()
-        form_number = parts[1].strip()
-    elif "_" in raw:
-        parts = raw.split("_", 1)
-        base_id = parts[0].strip()
-        form_number = parts[1].strip()
-
-    if not form_number:
+    if not form_id:
         continue
 
     key = normalize_base_id(base_id)
+
     forms_by_base.setdefault(key, []).append({
-        "formNumber": form_number,
+        "formId": form_id,
         "fields": entry["fields"],
     })
 
@@ -161,17 +216,18 @@ for entry in pokemon_entries:
     })
 
     forms = forms_by_base.get(base_id, [])
-    forms.sort(key=lambda item: int(item["formNumber"]) if item["formNumber"].isdigit() else item["formNumber"])
+    forms.sort(key=form_sort_key)
 
     for form in forms:
-        sprite = find_sprite(normal_sprites, shiny_sprites, entry["id"], form["formNumber"])
+        form_id = form["formId"]
+        sprite = find_sprite(normal_sprites, shiny_sprites, entry["id"], form_id)
 
         result.append({
-            "id": f"{base_id}_{form['formNumber']}",
+            "id": f"{base_id}_{normalize_sprite_part(form_id)}",
             "dexId": len(result) + 1,
             "speciesId": base_id,
-            "formNumber": form["formNumber"],
-            "name": display_form_name(base_name, form["fields"], form["formNumber"]),
+            "formNumber": form_id,
+            "name": display_form_name(base_name, form["fields"], form_id),
             "sortGroup": base_id,
             "sprite": sprite["normal"],
             "shinySprite": sprite["shiny"],
